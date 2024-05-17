@@ -112,11 +112,11 @@ const Header7 = ({ data }) => {
                     <Link to="post" onClick={() => setMobileToggle(false)}>
                       News
                     </Link>
-                    <ul>
+                    {/* <ul>
                       <li>
                         <Link to="post/post_details">Single Details</Link>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
                   <li>
                     <Link to="contact" onClick={() => setMobileToggle(false)}>

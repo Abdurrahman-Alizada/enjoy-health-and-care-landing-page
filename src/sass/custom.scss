@@ -363,6 +363,13 @@ a {
   }
 }
 
+.self-center{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
 .st-iconbox.st-style1 {
   .st-iconbox-icon img {
     width: 52px;

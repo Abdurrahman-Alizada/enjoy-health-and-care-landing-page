@@ -27,7 +27,7 @@ const Appointment = () => {
     event.preventDefault();
     setLoading(true);
     const formData = new FormData(event.target);
-    formData.append("access_key", "fcc74231-656a-425b-a54f-aff38354fadb");
+    formData.append("access_key", "22d223df-a96d-469d-ab15-3341bd58511b");
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
@@ -129,7 +129,7 @@ const Appointment = () => {
                 </div>
                 <div className="col-lg-6">
                   <div className="st-form-field st-style1">
-                    <label>Booking Date</label>
+                    <label>Booking/Visit Date</label>
                     <input
                       name="date"
                       type="text"
@@ -146,29 +146,29 @@ const Appointment = () => {
                 </div>
                 <div className="col-lg-6">
                   <div className="st-form-field st-style1">
-                    <label>Department</label>
+                    <label>Service</label>
                     <div className="st-custom-select-wrap">
                       <select
                         name="department"
                         id="department"
                         className="st_select1"
-                        data-placeholder="Select department"
+                        data-placeholder="Select service"
                         onChange={handleInputChange}
                         value={formData.department}
                         required
                       >
-                        <option>Select Department</option>
-                        <option value="dental-care">Dental Care</option>
-                        <option value="neurology">Neurology</option>
-                        <option value="crutches">Crutches</option>
-                        <option value="cardiology">Cardiology</option>
-                        <option value="pulmonary">Pulmonary</option>
-                        <option value="x-ray">X-Ray</option>
+                        <option>Select service</option>
+                        <option value="dental-care">Diagnostics</option>
+                        <option value="neurology">Develop House</option>
+                        <option value="crutches">Independence training</option>
+                        <option value="cardiology">Crisis</option>
+                        <option value="pulmonary">Independent house</option>
+                        <option value="x-ray">Independence HousePlus</option>
                       </select>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-6">
+                {/* <div className="col-lg-6">
                   <div className="st-form-field st-style1">
                     <label>Doctor</label>
                     <div className="st-custom-select-wrap">
@@ -193,7 +193,7 @@ const Appointment = () => {
                       </select>
                     </div>
                   </div>
-                </div>
+                </div> */}
                 <div className="col-lg-12">
                   <div className="st-form-field st-style1">
                     <label>Message</label>
@@ -216,7 +216,7 @@ const Appointment = () => {
                     id="appointment-submit"
                     name="submit"
                   >
-                    {loading ? "Sending..." : "Appointment"}
+                    {loading ? "Sending..." : "Send"}
                   </button>
                 </div>
               </div>

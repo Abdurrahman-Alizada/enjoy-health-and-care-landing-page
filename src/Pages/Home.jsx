@@ -195,7 +195,7 @@ const Multipage = () => {
     <>
       <Hero data={heroData} />
       <About6 data={aboutData} />
-      <Iconbox data={iconboxData} varient="st-type2" />
+      <Iconbox data={iconboxData} varient="st-type3" />
       <Spacing lg={120} md={80} />
       <hr />
       <Department />
