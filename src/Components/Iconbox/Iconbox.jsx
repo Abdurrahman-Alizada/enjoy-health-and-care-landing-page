@@ -9,9 +9,9 @@ const Iconbox = ({ data, varient }) => {
           {data.map((element, index) => (
             <div className="col-lg-4" key={index}>
               <div className={`st-iconbox st-style1 ${varient}`}>
-                <div className={`st-iconbox-icon st-${element.bg}-box`}>
+                {/* <div className={`st-iconbox-icon st-${element.bg}-box`}>
                   <img src={element.icon} alt={element.icon} />
-                </div>
+                </div> */}
                 <h2 className="st-iconbox-title">{element.title}</h2>
                 <div className="st-iconbox-text">{element.subTitle}</div>
               </div>

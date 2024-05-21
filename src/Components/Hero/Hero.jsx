@@ -64,14 +64,14 @@ const Hero3 = ({ data }) => {
                     to="/services"
                     className="st-btn st-style1 st-size-medium st-color1 st-smooth-move"
                   >
-                    Our services
+                    Wij bieden
                   </Link>
 
                   <Link
                     className="st-btn st-style1 st-size-medium st-color3 st-smooth-move"
                     to="/about"
                   >
-                    About us
+                    Over ons
                   </Link>
                 </div>
                 <div className="st-height-b15 st-height-lg-b15" />

@@ -4,7 +4,7 @@ import parse from 'html-react-parser';
 
 
 const About6 = ({ data }) => {
-  const { title, subTitle, avater, timeTable, contact } = data;
+  const { title, subTitle, timeTable, contact } = data;
 
   return (
     <section className="st-about-wrap">
@@ -24,7 +24,7 @@ const About6 = ({ data }) => {
                     <p>{parse(subTitle)}</p>
                   </div>
                   <div className="st-height-b25 st-height-lg-b25" />
-                  <div className="st-text-block-avatar">
+                  {/* <div className="st-text-block-avatar">
                     <div className="st-avatar-img">
                       <img src={`${avater.img}`} alt={`${avater.img}`} />
                     </div>
@@ -32,7 +32,7 @@ const About6 = ({ data }) => {
                       <h4 className="st-avatar-name">{avater.name}</h4>
                       <div className="st-avatar-designation">{avater.designation}</div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

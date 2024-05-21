@@ -98,6 +98,30 @@
       }
     }
   }
+  .st-widget-text {
+    font-size: 13px;
+    position: relative;
+    padding-bottom: 0;
+    margin-bottom: 17px;
+    margin-top: -3px;
+    overflow: hidden;
+    color: #666;
+    span {
+      position: relative;
+      display: inline-block;
+      padding-right: 15px;
+
+      &:before {
+        content: '';
+        background-color: $black4;
+        position: absolute;
+        left: 100%;
+        bottom: 50%;
+        height: 1px;
+        width: 1000px;
+      }
+    }
+  }
 }
 
 .st-widget-list {

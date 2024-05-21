@@ -29,10 +29,10 @@
   }
 
   .st-accordian-title {
-    border: 1px solid $black4;
+    border: 1px solid $black3;
     padding: 12px 20px;
     font-weight: 600;
-    color: $black1;
+    color: $black2;
     position: relative;
     padding-right: 30px;
     cursor: pointer;
@@ -63,7 +63,7 @@
       color: $white;
       background-color: $blue;
       border-color: $blue;
-      pointer-events: none;
+      // pointer-events: none;
       border-radius: 7px 7px 0 0;
     }
 

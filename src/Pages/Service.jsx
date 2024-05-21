@@ -1,18 +1,19 @@
 import React from "react";
-import Department from "../Components/Services/Department";
+// import Department from "../Components/Services/Department";
+import WeOffers from "../Components/Services/WeOffers";
 import MultiplePageHeading from "../Components/Hero/MultiplePageHeading";
 
 const ServiceSlider = () => {
   const heroData = {
     bgImg: `/images/hero-bg2.jpg`,
-    title: `What we offer`,
-    subTitle: `All detail of our services`
+    title: `Enjoy Health & Care biedt`,
+    subTitle: `Home / Enjoy Health & Care biedt`
   }
   
   return (
     <div className="marginTop">
       <MultiplePageHeading {...heroData} />
-      <Department />
+      <WeOffers />
     </div>
   );
 };

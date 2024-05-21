@@ -94,12 +94,38 @@ const Header7 = ({ data }) => {
                   </li>
                   <li>
                     <Link to="services" onClick={() => setMobileToggle(false)}>
-                      What we offer
+                      Wij bieden {/* What we offer */}
                     </Link>
                   </li>
                   <li>
+                    <Link to="forWhom" onClick={() => setMobileToggle(false)}>
+                      Voor wie {/* For whom */}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="method" onClick={() => setMobileToggle(false)}>
+                      Werkwijze {/* Method */}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="waiting-time" onClick={() => setMobileToggle(false)}>
+                      Wachttijden {/* Waithing time */}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="work-at" onClick={() => setMobileToggle(false)}>
+                      Werken bij {/* Work at */}
+                    </Link>
+                  </li>
+
+                  <li>
                     <Link to="about" onClick={() => setMobileToggle(false)}>
-                      About
+                      Over ons {/* About */}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="contact" onClick={() => setMobileToggle(false)}>
+                      Contact
                     </Link>
                   </li>
                   {/* <li>
@@ -108,38 +134,53 @@ const Header7 = ({ data }) => {
                   {/* <li>
                     <Link to="pricing" onClick={() => setMobileToggle(false)} >Pricing</Link>
                   </li> */}
-                  <li className="menu-item-has-children">
+                  {/* <li className="menu-item-has-children">
                     <Link to="post" onClick={() => setMobileToggle(false)}>
                       News
                     </Link>
-                    {/* <ul>
+                    <ul>
                       <li>
                         <Link to="post/post_details">Single Details</Link>
                       </li>
-                    </ul> */}
-                  </li>
-                  <li>
-                    <Link to="contact" onClick={() => setMobileToggle(false)}>
-                      Contact
-                    </Link>
-                  </li>
+                    </ul>
+                  </li> */}
                 </ul>
+
                 <div
-                  className={`st-munu-toggle ${
-                    mobileToggle ? "st-toggle-active" : ""
-                  } `}
-                  onClick={handleMobileToggle}
+                  className="st-munu-toggle"
+                  // className={`st-munu-toggle ${
+                  //   mobileToggle ? "st-toggle-active" : ""
+                  // } `}
+                  // onClick={handleMobileToggle}
                 >
-                  <span></span>
+                  {/* <span></span> */}
+                  <Link className="st-site-branding1" to="/">
+                    <img src={logo} alt={logo} />
+                  </Link>
                 </div>
               </div>
             </div>
             <div className="st-main-header-right">
+              <div
+                className={`st-munu-toggle ${
+                  mobileToggle ? "st-toggle-active" : ""
+                } `}
+                onClick={handleMobileToggle}
+              >
+                <span></span>
+              </div>
+
               <Link
-                to="/appointment"
+                to="/services/Crisis"
                 className="st-btn st-style1 st-color4 st-smooth-move st-size-medium w-100"
               >
-                Book An Appointment
+              
+<svg width="24" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 1C8.68629 1 6 3.68629 6 7V10H5C3.34315 10 2 11.3431 2 13V20C2 21.6569 3.34315 23 5 23H19C20.6569 23 22 21.6569 22 20V13C22 11.3431 20.6569 10 19 10H18V7C18 3.68629 15.3137 1 12 1ZM8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7V10H8V7ZM4 13C4 12.4477 4.44772 12 5 12H19C19.5523 12 20 12.4477 20 13V20C20 20.5523 19.5523 21 19 21H5C4.44772 21 4 20.5523 4 20V13ZM12 15C11.4477 15 11 15.4477 11 16V18C11 18.5523 11.4477 19 12 19C12.5523 19 13 18.5523 13 18V16C13 15.4477 12.5523 15 12 15Z" fill="white"/>
+</svg>
+
+
+                Crisisopvang
               </Link>
             </div>
           </div>

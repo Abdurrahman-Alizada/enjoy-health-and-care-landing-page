@@ -1,17 +1,16 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import MultiplePageHeading from "../Components/Hero/MultiplePageHeading";
 import { Link } from 'react-router-dom';
 import Social from "../Components/Social/Social";
 
-const PostDetails = () => {
-  const { serviceId } = useParams();
-  const file_name = serviceId;
+const ForWhom = () => {
+
+  const file_name = "Voor wie"; //for whom
   const [post, setPost] = useState("");
 
   useEffect(() => {
-    import(`../markdown/services/${file_name}.md`)
+    import(`../markdown/${file_name}.md`)
       .then((res) => {
         fetch(res.default)
           .then((res) => res.text())
@@ -23,7 +22,7 @@ const PostDetails = () => {
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
     title: file_name,
-    subTitle: `Home / Enjoy Health & Care biedt / ${serviceId}`,
+    subTitle: `Home / Voor wie`,
   };
   return (
     <div className="st-content">
@@ -65,4 +64,4 @@ const PostDetails = () => {
   );
 };
 
-export default PostDetails;
+export default ForWhom;
