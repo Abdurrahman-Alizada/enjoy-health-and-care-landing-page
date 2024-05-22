@@ -1,10 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import MultiplePageHeading from "../Components/Hero/MultiplePageHeading";
-import { Link } from "react-router-dom";
-import Social from "../Components/Social/Social";
 import { Icon } from "@iconify/react";
 import ReactMarkdown from "react-markdown";
-import Contact4 from "../Components/Contact/Contact4";
 
 const WorkAt = () => {
   const [openItemIndex, setOpenItemIndex] = useState(-1);

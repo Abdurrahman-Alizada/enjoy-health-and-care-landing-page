@@ -1,22 +1,10 @@
-import React, { useEffect, useState } from "react";
-import ReactMarkdown from "react-markdown";
+import React from "react";
 import MultiplePageHeading from "../Components/Hero/MultiplePageHeading";
 import { Link } from "react-router-dom";
 import Social from "../Components/Social/Social";
 
 const WaitingTime = () => {
-  const file_name = "wachttijden"; //waiting time
-  const [post, setPost] = useState("");
-
-  useEffect(() => {
-    import(`../markdown/${file_name}.md`)
-      .then((res) => {
-        fetch(res.default)
-          .then((res) => res.text())
-          .then((res) => setPost(res));
-      })
-      .catch((err) => console.log(err));
-  });
+  
 
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
