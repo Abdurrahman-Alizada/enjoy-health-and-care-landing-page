@@ -4,8 +4,6 @@ import { Link } from "react-router-dom";
 import Social from "../Components/Social/Social";
 
 const WaitingTime = () => {
-  
-
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
     title: "Geen Wachttijden voor Jeugdzorg bij Enjoy health & care",
@@ -33,7 +31,6 @@ const WaitingTime = () => {
       product: "Crisisopvang",
       time: "0",
     },
-    
   ];
 
   return (
@@ -64,7 +61,9 @@ const WaitingTime = () => {
                 data-wow-delay="0.2s"
               >
                 <div className="st-shedule">
-                  <div style={{display:"flex",justifyContent:"space-between"}}>
+                  <div
+                    style={{ display: "flex", justifyContent: "space-between" }}
+                  >
                     <h4 className="">Product</h4>
                     <h4 className="">Gemiddelde wachttijd in weken</h4>
                   </div>
@@ -72,9 +71,7 @@ const WaitingTime = () => {
                     {timeTable.map((element, index) => (
                       <li key={index}>
                         <div className="st-shedule-left">{element.product}</div>
-                        <div className="st-shedule-right">
-                          {element.time}
-                        </div>
+                        <div className="st-shedule-right">{element.time}</div>
                       </li>
                     ))}
                   </ul>
@@ -87,7 +84,7 @@ const WaitingTime = () => {
             <div className="st-height-b30 st-height-lg-b30" />
             <div className="st-widget st-sidebar-widget">
               <Link
-                to="/appointment"
+                to="/services/Crisis"
                 className="st-btn st-style1 st-color1 st-smooth-move st-size-large w-100"
               >
                 Crisisopvang jongeren: <br /> 085-4014489

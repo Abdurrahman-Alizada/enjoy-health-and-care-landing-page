@@ -80,6 +80,24 @@ const Hero3 = ({ data }) => {
           </div>
         ))}
       </Slider>
+      <div
+          style={{textAlign:"center",  backgroundColor: "#f4f4f4" }}
+          >
+          <div 
+          className="container"
+          style={{}}
+          >
+            <div className="st-height-b40 st-height-lg-b20" />
+              <p className="col-lg-12">
+                Enjoy health & care is de entree tot een nieuwe fase waarin jongeren kunnen
+                werken aan hun toekomst.<br /> De kerngedachte is dat jongeren Deur8
+                in een verbeterde situatie verlaten na een maatgevoerd
+                ontwikkeltraject.<br /> De kenmerken van het getal 8 staan symbool
+                voor de eigenschappen van het ontwikkeltraject.
+              </p>
+            <div className="st-height-b25 st-height-lg-b25" />
+          </div>
+        </div>
     </>
   );
 };

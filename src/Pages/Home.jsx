@@ -6,7 +6,7 @@ import Hero from "../Components/Hero/Hero";
 // import Appointment from "../Components/Appointment/Appointment";
 import TestimonialSlider from "../Components/Slider/TestimonialSlider";
 // import Spacing from "../Components/Spacing/Spacing";
-import About6 from "../Components/About/About6";
+// import About6 from "../Components/About/About6";
 import Iconbox from "../Components/Iconbox/Iconbox";
 
 const heroData = [
@@ -16,18 +16,18 @@ const heroData = [
       "Enjoy Health & Care biedt programma's voor welzijn en herstel,<br /> afgestemd op jouw behoeften.",
     bgImg: "/images/hero-bg21.png",
   },
-  {
-    title: "Safe your own health. <br /> Get best Service.",
-    subTitle:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Tempor incididunt ut labore et dolore magna.",
-    bgImg: "/images/hero-bg22.png",
-  },
-  {
-    title: "Safe your own health. <br /> Get best Service.",
-    subTitle:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Tempor incididunt ut labore et dolore magna.",
-    bgImg: "/images/hero-bg.jpg",
-  },
+  // {
+  //   title: "Safe your own health. <br /> Get best Service.",
+  //   subTitle:
+  //     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Tempor incididunt ut labore et dolore magna.",
+  //   bgImg: "/images/hero-bg22.png",
+  // },
+  // {
+  //   title: "Safe your own health. <br /> Get best Service.",
+  //   subTitle:
+  //     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br /> Tempor incididunt ut labore et dolore magna.",
+  //   bgImg: "/images/hero-bg.jpg",
+  // },
 ];
 
 const iconboxData = [
@@ -54,54 +54,54 @@ const iconboxData = [
   },
 ];
 
-const aboutData = {
-  title: "Bevorder Gezondheid en Welzijn voor Iedereen",
-  subTitle:
-    "Enjoy Health & Care biedt uitgebreide programma's voor gezondheid en welzijn. Onze diensten zijn ontworpen om je fysieke en mentale gezondheid te verbeteren. <br /><br /> Met op maat gemaakte plannen streven we ernaar dat je onze zorg in een betere conditie verlaat. We bieden ondersteuning die aansluit op jouw unieke behoeften. <br /><br/>   Onze kernwaarden weerspiegelen een holistische benadering van zorg, waarbij gezondheid en welzijn centraal staan in alles wat we doen.",
-  avater: {
-    img: "/images/avatar1.png",
-    name: "David Ambrose",
-    designation: "Founder & Director",
-  },
-  timeTable: [
-    {
-      day: "Monday",
-      startTime: "8:00",
-      endTime: "7:00",
-    },
-    {
-      day: "Tuesday",
-      startTime: "9:00",
-      endTime: "6:00",
-    },
-    {
-      day: "Wednesday",
-      startTime: "9:00",
-      endTime: "6:00",
-    },
-    {
-      day: "Thursday",
-      startTime: "8:00",
-      endTime: "7:00",
-    },
-    {
-      day: "Friday",
-      startTime: "9:00",
-      endTime: "5:00",
-    },
-    {
-      day: "Saturday",
-      startTime: "8:00",
-      endTime: "7:00",
-    },
-    {
-      day: "Sunday",
-      startTime: "9:00",
-      endTime: "3:00",
-    },
-  ],
-  contact: "(+31) - 234 567 890",
-};
+// const aboutData = {
+//   title: "Bevorder Gezondheid en Welzijn voor Iedereen",
+//   subTitle:
+//     "Enjoy Health & Care biedt uitgebreide programma's voor gezondheid en welzijn. Onze diensten zijn ontworpen om je fysieke en mentale gezondheid te verbeteren. <br /><br /> Met op maat gemaakte plannen streven we ernaar dat je onze zorg in een betere conditie verlaat. We bieden ondersteuning die aansluit op jouw unieke behoeften. <br /><br/>   Onze kernwaarden weerspiegelen een holistische benadering van zorg, waarbij gezondheid en welzijn centraal staan in alles wat we doen.",
+//   avater: {
+//     img: "/images/avatar1.png",
+//     name: "David Ambrose",
+//     designation: "Founder & Director",
+//   },
+//   timeTable: [
+//     {
+//       day: "Monday",
+//       startTime: "8:00",
+//       endTime: "7:00",
+//     },
+//     {
+//       day: "Tuesday",
+//       startTime: "9:00",
+//       endTime: "6:00",
+//     },
+//     {
+//       day: "Wednesday",
+//       startTime: "9:00",
+//       endTime: "6:00",
+//     },
+//     {
+//       day: "Thursday",
+//       startTime: "8:00",
+//       endTime: "7:00",
+//     },
+//     {
+//       day: "Friday",
+//       startTime: "9:00",
+//       endTime: "5:00",
+//     },
+//     {
+//       day: "Saturday",
+//       startTime: "8:00",
+//       endTime: "7:00",
+//     },
+//     {
+//       day: "Sunday",
+//       startTime: "9:00",
+//       endTime: "3:00",
+//     },
+//   ],
+//   contact: "(+31) - 234 567 890",
+// };
 
 // const specialistData = [
 //   {
@@ -195,7 +195,7 @@ const Multipage = () => {
   return (
     <>
       <Hero data={heroData} />
-      <About6 data={aboutData} />
+      {/* <About6 data={aboutData} /> */}
       <Iconbox data={iconboxData} varient="st-type3" />
       {/* <Spacing lg={120} md={80} /> */}
       {/* <hr /> */}
