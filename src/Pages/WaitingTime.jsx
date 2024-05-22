@@ -47,7 +47,7 @@ const WaitingTime = () => {
               <p>
                 De druk op de jeugdzorg is de afgelopen jaren enorm toegenomen.
                 Veel instellingen kennen helaas lange wachttijden, waardoor de
-                noodzakelijke zorg wordt vertraagd. Bij Deur 8 is dit echter
+                noodzakelijke zorg wordt vertraagd. Bij Enjoy Health & Care is dit echter
                 niet het geval. Wij hebben momenteel geen wachttijden en je kunt
                 direct bij ons terecht voor de zorg die je nodig hebt.
               </p>

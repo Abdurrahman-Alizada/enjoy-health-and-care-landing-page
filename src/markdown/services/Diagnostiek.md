@@ -10,7 +10,7 @@ Een stoornis verwijst naar elke aandoening die de normale mentale, emotionele of
 
 # Onze diensten
 
-Naast diagnostiek biedt Deur 8 een reeks andere diensten, zoals:
+Naast diagnostiek biedt Enjoy Health & Care een reeks andere diensten, zoals:
 
 - [Crisisopvang](http://localhost:3000/services/Diagnostiek)
 - [Ambulant Wonen]()
@@ -20,14 +20,14 @@ Naast diagnostiek biedt Deur 8 een reeks andere diensten, zoals:
 - [Zelfstandigheidshuis]()
 - [ZelfstandigheidshuisPlus]()
 
-# Werken bij Deur 8
+# Werken bij Enjoy Health & Care
 
-Bent u gepassioneerd over het helpen van jongeren en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. [Leer meer over werken bij Deur 8.](http://localhost:3000/services/Diagnostiek)
+Bent u gepassioneerd over het helpen van jongeren en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. [Leer meer over werken bij Enjoy Health & Care.](http://localhost:3000/services/Diagnostiek)
 
 
 # Neem Contact Op
 
-Klaar om de eerste stap te zetten naar een betere toekomst voor uw jongere? Neem vandaag nog contact met ons op en ontdek hoe Deur 8 kan helpen
+Klaar om de eerste stap te zetten naar een betere toekomst voor uw jongere? Neem vandaag nog contact met ons op en ontdek hoe Enjoy Health & Care kan helpen
 
 ![My Image](/images/services/dignostic/1.jpg)
 
@@ -39,7 +39,7 @@ De uitdagingen die jongeren met autisme ervaren, variëren sterk, maar veelvoork
 
 # Diagnostiek voor autisme bij jongeren
 
-Het vaststellen van autisme kan een complex proces zijn, gezien de variatie in symptomen en gedragingen die geassocieerd worden met de stoornis. Bij Deur 8, zetten we een veelzijdige aanpak in om een gedetailleerd en nauwkeurig beeld te krijgen van de unieke ervaringen en uitdagingen van elke jongere.
+Het vaststellen van autisme kan een complex proces zijn, gezien de variatie in symptomen en gedragingen die geassocieerd worden met de stoornis. Bij Enjoy Health & Care, zetten we een veelzijdige aanpak in om een gedetailleerd en nauwkeurig beeld te krijgen van de unieke ervaringen en uitdagingen van elke jongere.
 
 # Hoe we autisme diagnostiseren
 
@@ -47,11 +47,11 @@ Onze diagnostische processen omvatten een reeks evaluaties en tests, waaronder g
 
 # Het belang van nauwkeurige diagnostiek
 
-Een nauwkeurige diagnose van autisme is cruciaal voor het ontwikkelen van een op maat gemaakt ondersteunings- en interventieplan. Elke jongere met autisme heeft een unieke set van sterktes en uitdagingen, en bij Deur 8 zetten we ons in om individuele behoeften en doelen te herkennen en te ondersteunen.
+Een nauwkeurige diagnose van autisme is cruciaal voor het ontwikkelen van een op maat gemaakt ondersteunings- en interventieplan. Elke jongere met autisme heeft een unieke set van sterktes en uitdagingen, en bij Enjoy Health & Care zetten we ons in om individuele behoeften en doelen te herkennen en te ondersteunen.
 
-# Hoe Deur8 ondersteuning biedt
+# Hoe Enjoy Health & Care ondersteuning biedt
 
-Deur8, gevestigd in Beneden-Leeuwen, biedt kleinschalige, persoonlijke ondersteuning aan jongeren met autisme. Ons doel is om deze jongeren te helpen hun zelfstandigheid te ontwikkelen, zodat ze zo veel mogelijk in hun eigen thuisomgeving kunnen blijven wonen.
+Enjoy Health & Care, gevestigd in Beneden-Leeuwen, biedt kleinschalige, persoonlijke ondersteuning aan jongeren met autisme. Ons doel is om deze jongeren te helpen hun zelfstandigheid te ontwikkelen, zodat ze zo veel mogelijk in hun eigen thuisomgeving kunnen blijven wonen.
 
 We begrijpen de unieke behoeften en uitdagingen van elke jongere en ontwikkelen op maat gemaakte zorgplannen om hun sterke punten te benadrukken en te werken aan gebieden die verbetering behoeven.
 
@@ -59,7 +59,7 @@ We begrijpen de unieke behoeften en uitdagingen van elke jongere en ontwikkelen 
 
 Door een-op-een begeleiding en ondersteuning, helpen we jongeren om hun sociale vaardigheden, communicatie en zelfzorg te verbeteren. We bieden ook ondersteuning aan gezinnen, om de thuisomgeving zo ondersteunend mogelijk te maken.
 
-Als je een jongere met autisme hebt en je loopt vast, aarzel dan niet om contact op te nemen met Deur8. We zijn hier om te helpen en samen te werken voor een betere toekomst voor jou en je kind.
+Als je een jongere met autisme hebt en je loopt vast, aarzel dan niet om contact op te nemen met Enjoy Health & Care. We zijn hier om te helpen en samen te werken voor een betere toekomst voor jou en je kind.
 
 [Neem Contact Op](http://localhost:3000/services/Diagnostiek)
 

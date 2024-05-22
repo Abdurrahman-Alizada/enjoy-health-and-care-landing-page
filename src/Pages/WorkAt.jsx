@@ -37,7 +37,7 @@ const WorkAt = () => {
     {
       title: "Jeugdzorgwerker C/ D",
       content: `##### Wie zijn wij?
-Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Deur8 is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Deur8 bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
+Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
 ##### Waar ga je werken?
 Het Leef en Ontwikkelhuis in Beneden-Leeuwen is een plek met twee huiselijke woongroepen waar maximaal zes jongeren per groep wonen. Het is een veilige woonomgeving voor jongeren tussen 12 en 23 jaar met complexe problematiek, zoals persoonlijkheids-, hechtings-, angst- en autisme-gerelateerde problematiek. Dit doen wij binnen de kleinschaligheid midden in een woonwijk. Het ZelfstandigheidshuisPlus staat in Tiel. Hier wonen maximaal 7 jongeren voor de stap naar volledige zelfstandigheid nog te groot is. Als jeugdzorgwerker ga je werken in een enthousiast team bestaande uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog.
 
@@ -64,16 +64,16 @@ Een baan binnen een kleinschalige organisatie met alle ruimte om je te ontwikkel
 Salaris conform CAO Jeugdzorg (schaal 7 of 8), vakantietoeslag van 8% en een vaste eindejaarsuitkering van · 8,3%
 Ruimte om bij te dragen aan de ontwikkeling van een jonge organisaties.
 Voldoende scholingsmogelijkheden.
-Word jij onze nieuwe collega? Stuur je cv naar [werkenbij@deur8.nl]()
+Word jij onze nieuwe collega? Stuur je cv naar [werkenbij@Enjoy Health & Care.nl]()
 `,
     },
     {
       title: "Jeugdzorgwerker+",
       content: `
 #### Wie zijn wij?
-Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Deur8 is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Deur8 bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
+Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
       
-Voor ons nieuwe behandelgroep zijn we op zoek naar Jeugdzorgwerkers die gedreven zijn om het aanbod van Deur8 naar een hoger niveau te tillen en wil bijdragen aan het transformeren van jeugdhulp.
+Voor ons nieuwe behandelgroep zijn we op zoek naar Jeugdzorgwerkers die gedreven zijn om het aanbod van Enjoy Health & Care naar een hoger niveau te tillen en wil bijdragen aan het transformeren van jeugdhulp.
       
 ##### Waar ga je werken?
 De locatie Vijg&Olijf is een kleinschalige woon- en ontwikkelhuis in Tiel die midden in de woonwijk wordt ontwikkeld. Je opereert binnen de kleinschaligheid waar maximaal vier jongeren wonen in één woongroep.
@@ -131,7 +131,7 @@ Verwacht aantal uur: Niet minder dan 28 per week
                 Waarom Werken bij Enjoy health care & care?
               </h3>
               <p>
-                Bij Deur 8 zijn we een dynamisch en divers team van
+                Bij Enjoy Health & Care zijn we een dynamisch en divers team van
                 professionals die zich inzetten voor het welzijn van jongeren.
                 We bieden een prettige werkomgeving en uitstekende professionele
                 ontwikkelingsmogelijkheden.
@@ -144,7 +144,7 @@ Verwacht aantal uur: Niet minder dan 28 per week
               </ul>
               <h3 style={{ marginBottom: "10px" }}>Openstaande Vacatures</h3>
               <p style={{ marginBottom: "20px" }}>
-                Ontdek de huidige openstaande vacature bij Deur 8 en neem de
+                Ontdek de huidige openstaande vacature bij Enjoy Health & Care en neem de
                 volgende stap in je carrière:
               </p>
 
