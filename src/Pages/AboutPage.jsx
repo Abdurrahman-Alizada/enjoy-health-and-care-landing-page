@@ -48,7 +48,7 @@ const AboutPage = () => {
                 to="/services/Crisis"
                 className="st-btn st-style1 st-color1 st-smooth-move st-size-large w-100"
               >
-                Crisisopvang jongeren: <br /> 085-4014489
+                Crisisopvang jongvolwassenen : <br /> 085-4014489
               </Link>
               <div className="st-height-b40 st-height-lg-b30" />
 

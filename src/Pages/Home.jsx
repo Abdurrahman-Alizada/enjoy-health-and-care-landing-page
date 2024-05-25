@@ -43,7 +43,7 @@ const iconboxData = [
     icon: "/icons/icon2.svg",
     title: "Oneindigheid – Continuïteit",
     subTitle:
-      "Enjoy health & care is de toegang tot een eigen ‘thuis’ . Wij bieden jongeren een beschermde omgeving waarin ze zichzelf kunnen ontwikkelen  door naar ze te luisteren, hun vragen serieus te nemen en ondersteuning af te stemmen op hun mogelijkheden. Bij Enjoy Health & Care vliegt niemand uit de bocht, hoe scherp de bochten in het leven ook zijn. Het leven is vallen en opstaan, al val je zo vaak wij helpen je hierbij weer op te staan. Het motto hierbij is 7 keer vallen, 8 keer opstaan.",
+      "Enjoy health & care is de toegang tot een eigen ‘thuis’ . Wij bieden jongvolwassenen  een beschermde omgeving waarin ze zichzelf kunnen ontwikkelen  door naar ze te luisteren, hun vragen serieus te nemen en ondersteuning af te stemmen op hun mogelijkheden. Bij Enjoy Health & Care vliegt niemand uit de bocht, hoe scherp de bochten in het leven ook zijn. Het leven is vallen en opstaan, al val je zo vaak wij helpen je hierbij weer op te staan. Het motto hierbij is 7 keer vallen, 8 keer opstaan.",
   },
   {
     bg: "red",

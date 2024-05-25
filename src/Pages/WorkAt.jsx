@@ -37,12 +37,12 @@ const WorkAt = () => {
     {
       title: "Jeugdzorgwerker C/ D",
       content: `##### Wie zijn wij?
-Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
+Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongvolwassenen  kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
 ##### Waar ga je werken?
-Het Leef en Ontwikkelhuis in Beneden-Leeuwen is een plek met twee huiselijke woongroepen waar maximaal zes jongeren per groep wonen. Het is een veilige woonomgeving voor jongeren tussen 12 en 23 jaar met complexe problematiek, zoals persoonlijkheids-, hechtings-, angst- en autisme-gerelateerde problematiek. Dit doen wij binnen de kleinschaligheid midden in een woonwijk. Het ZelfstandigheidshuisPlus staat in Tiel. Hier wonen maximaal 7 jongeren voor de stap naar volledige zelfstandigheid nog te groot is. Als jeugdzorgwerker ga je werken in een enthousiast team bestaande uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog.
+Het Leef en Ontwikkelhuis in Beneden-Leeuwen is een plek met twee huiselijke woongroepen waar maximaal zes jongvolwassenen  per groep wonen. Het is een veilige woonomgeving voor jongvolwassenen  tussen 12 en 23 jaar met complexe problematiek, zoals persoonlijkheids-, hechtings-, angst- en autisme-gerelateerde problematiek. Dit doen wij binnen de kleinschaligheid midden in een woonwijk. Het ZelfstandigheidshuisPlus staat in Zaandam. Hier wonen maximaal 7 jongvolwassenen  voor de stap naar volledige zelfstandigheid nog te groot is. Als jeugdzorgwerker ga je werken in een enthousiast team bestaande uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog.
 
 ##### Wie ben jij?
-Je bent integer, je hebt humor en je staat stevig in je schoenen. Je hebt een pedagogische HBO opleiding of MBO4 afgerond. Je hebt passie voor jeugd en jongeren en weet als geen ander wat nodig is om hen maximale kansen te bieden voor hun toekomst. Je houdt ervan om praktisch aan de slag te gaan, maar weet daarbij het grotere doel voor ogen te houden. Je hebt kennis van het gezin en het mogelijk disfunctioneren hierbinnen en inzicht in het hulpaanbod en de hulpverleningsmethodieken. Je bent betrokken, toont je nieuwsgierig en niet-veroordelend naar jongere en ouder(s)/ verzorgers. Je weet een positieve werkrelatie met hen op te bouwen. Je werkt onregelmatig en draait slaapdiensten.
+Je bent integer, je hebt humor en je staat stevig in je schoenen. Je hebt een pedagogische HBO opleiding of MBO4 afgerond. Je hebt passie voor jeugd en jongvolwassenen  en weet als geen ander wat nodig is om hen maximale kansen te bieden voor hun toekomst. Je houdt ervan om praktisch aan de slag te gaan, maar weet daarbij het grotere doel voor ogen te houden. Je hebt kennis van het gezin en het mogelijk disfunctioneren hierbinnen en inzicht in het hulpaanbod en de hulpverleningsmethodieken. Je bent betrokken, toont je nieuwsgierig en niet-veroordelend naar jongere en ouder(s)/ verzorgers. Je weet een positieve werkrelatie met hen op te bouwen. Je werkt onregelmatig en draait slaapdiensten.
 
 ##### Wat ga je doen?
 
@@ -71,23 +71,23 @@ Word jij onze nieuwe collega? Stuur je cv naar [werkenbij@Enjoy Health & Care.nl
       title: "Jeugdzorgwerker+",
       content: `
 #### Wie zijn wij?
-Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongeren kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
+Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Enjoy Health & Care is de entree tot een nieuwe fase waarin jongvolwassenen  kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy Health & Care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psycholoog. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak.
       
 Voor ons nieuwe behandelgroep zijn we op zoek naar Jeugdzorgwerkers die gedreven zijn om het aanbod van Enjoy Health & Care naar een hoger niveau te tillen en wil bijdragen aan het transformeren van jeugdhulp.
       
 ##### Waar ga je werken?
-De locatie Vijg&Olijf is een kleinschalige woon- en ontwikkelhuis in Tiel die midden in de woonwijk wordt ontwikkeld. Je opereert binnen de kleinschaligheid waar maximaal vier jongeren wonen in één woongroep.
+De locatie Vijg&Olijf is een kleinschalige woon- en ontwikkelhuis in Zaandam die midden in de woonwijk wordt ontwikkeld. Je opereert binnen de kleinschaligheid waar maximaal vier jongvolwassenen  wonen in één woongroep.
       
-Het gaat om jongeren tussen 12 en 23 jaar met complexe problematiek (zoals persoonlijkheids-, hechtings-, angst- en autisme-gerelateerde problematiek) die om een intensieve benadering vragen. Als jeugdzorgwerker+ ga je werken in een nieuw team bestaande uit jeugdzorgwerkers, behandelcoördinator en een regiebehandelaar.
+Het gaat om jongvolwassenen  tussen 12 en 23 jaar met complexe problematiek (zoals persoonlijkheids-, hechtings-, angst- en autisme-gerelateerde problematiek) die om een intensieve benadering vragen. Als jeugdzorgwerker+ ga je werken in een nieuw team bestaande uit jeugdzorgwerkers, behandelcoördinator en een regiebehandelaar.
       
 Als team ga je uitvoering geven aan behandel- en begeleidingsvraagstukken die spelen binnen Vijg&Olijf. Diagnostiek, Zelfstandigheidstraining en systeemgerichte interventies kunnen ook onderdeel uitmaken van de trajecten.
       
 ##### Je gaat:
 - Adviseren, in samenspraak met relevante betrokkenen, over de best passende individuele en/ of groepsmethoden en je stelt plannen van aanpak op (op basis van het zorgplan) waarin concreet en systeemgericht (multidisciplinaire) behandeldoelen en acties zijn geformuleerd.
       
-- Uitvoering geven aan het plan van aanpak en regie voeren over de opgenomen doelstellingen met betrekking tot jouw mentorkind en zijn/haar netwerk. Je ondersteunt de kinderen/jongeren en hun netwerk door inzet van passende (specialistische) interventies en methoden en je bewaakt de voortgang, evalueert de hulpverlening en stelt plan van aanpak na overleg met de verantwoordelijke behandelaar bij waar nodig.
+- Uitvoering geven aan het plan van aanpak en regie voeren over de opgenomen doelstellingen met betrekking tot jouw mentorkind en zijn/haar netwerk. Je ondersteunt de kinderen/jongvolwassenen  en hun netwerk door inzet van passende (specialistische) interventies en methoden en je bewaakt de voortgang, evalueert de hulpverlening en stelt plan van aanpak na overleg met de verantwoordelijke behandelaar bij waar nodig.
       
-- De orthopedagogische situatie op de leefgroep borgen door het observeren van de groep, het onderkennen, interveniëren en begeleiden van het groepsdynamische proces en het opvoeden, begeleiden, stimuleren en activeren van individuele jongeren. Je verzorgt in- en externe voorlichting en kennisoverdracht op het eigen expertisegebied en onderhoudt een voor de uitvoering van de functie relevant in- en extern netwerk.
+- De orthopedagogische situatie op de leefgroep borgen door het observeren van de groep, het onderkennen, interveniëren en begeleiden van het groepsdynamische proces en het opvoeden, begeleiden, stimuleren en activeren van individuele jongvolwassenen . Je verzorgt in- en externe voorlichting en kennisoverdracht op het eigen expertisegebied en onderhoudt een voor de uitvoering van de functie relevant in- en extern netwerk.
       
 ##### Wat heb je te bieden?
 HBO werk- en denkniveau
@@ -123,7 +123,7 @@ Verwacht aantal uur: Niet minder dan 28 per week
             <div className="st-post-details">
               <p>
                 Ben je gepassioneerd over het maken van een positieve impact op
-                het leven van jongeren? Overweeg dan een carrière bij Enjoy
+                het leven van jongvolwassenen ? Overweeg dan een carrière bij Enjoy
                 health & care, waar we toegewijd zijn aan het bieden van
                 directe, effectieve zorg zonder wachttijden.
               </p>
@@ -132,12 +132,12 @@ Verwacht aantal uur: Niet minder dan 28 per week
               </h3>
               <p>
                 Bij Enjoy Health & Care zijn we een dynamisch en divers team van
-                professionals die zich inzetten voor het welzijn van jongeren.
+                professionals die zich inzetten voor het welzijn van jongvolwassenen .
                 We bieden een prettige werkomgeving en uitstekende professionele
                 ontwikkelingsmogelijkheden.
               </p>
               <ul>
-                <li>Directe impact maken op het leven van jongeren</li>
+                <li>Directe impact maken op het leven van jongvolwassenen </li>
                 <li>Geen wachttijden voor cliënten</li>
                 <li>Diverse en inclusieve werkcultuur</li>
                 <li>Uitgebreide training en ontwikkelingsprogramma’s</li>

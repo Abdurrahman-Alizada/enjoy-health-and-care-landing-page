@@ -1,7 +1,7 @@
 
 ![For whom main image](/images/forWhom/main-image.jpg)
 
-# Jongeren vanaf 12 jaar tot 23 jaar*
+# Jongvolwassenen  vanaf 12 jaar tot 23 jaar*
 
 - Die [vastlopen]() binnen hun cognitieve, sociaal-emotionele en/of [persoonlijkheidsontwikkeling]() of knelpunten kennen op het gebied van trauma’s, zelfbeeld en systemische factoren.
 
@@ -15,7 +15,7 @@ Waarvoor het nog niet mogelijk is om zelfstandig te wonen en ook niet meer mogel
 - Die willen [leren]() zorgen voor zichzelf, zodat ze steeds beter meekomen op school, zelfstandiger een huishouden kunnen voeren, werk vinden en leren omgaan met geld.
 
 # Wie kunnen we niet helpen:
-- Jongeren die fysiek agressief gedrag laten zien.
-- Jongeren met verslavingsproblematiek, welke niet begeleidbaar is met orthopedagogische middelen.
-- Jongeren met (ernstige) gediagnosticeerde psychiatrische problematiek.
+- jongvolwassenen  die fysiek agressief gedrag laten zien.
+- jongvolwassenen  met verslavingsproblematiek, welke niet begeleidbaar is met orthopedagogische middelen.
+- jongvolwassenen  met (ernstige) gediagnosticeerde psychiatrische problematiek.
 

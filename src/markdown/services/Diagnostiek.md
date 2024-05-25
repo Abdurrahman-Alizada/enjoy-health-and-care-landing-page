@@ -1,6 +1,6 @@
-# Diagnostiek voor Jongeren bij Enjoy health & care
+# Diagnostiek voor jongvolwassenen  bij Enjoy health & care
 
-**Enjoy Health & Care**, gevestigd in Beneden-Leeuwen, is gespecialiseerd in diagnostiek voor jongeren in de regio Tiel, Geldermalsen, Zaltbommel, Beneden-Leeuwen, Buren. Wij bieden gepersonaliseerde diagnostische diensten om de unieke behoeften van elke jongere te begrijpen en aan te pakken..
+**Enjoy Health & Care**, gevestigd in Beneden-Leeuwen, is gespecialiseerd in diagnostiek voor jongvolwassenen  in de regio Zaandam, Geldermalsen, Zaltbommel, Beneden-Leeuwen, Buren. Wij bieden gepersonaliseerde diagnostische diensten om de unieke behoeften van elke jongere te begrijpen en aan te pakken..
 
 # Wat houdt diagnostiek in?
 
@@ -22,7 +22,7 @@ Naast diagnostiek biedt Enjoy Health & Care een reeks andere diensten, zoals:
 
 # Werken bij Enjoy Health & Care
 
-Bent u gepassioneerd over het helpen van jongeren en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. [Leer meer over werken bij Enjoy Health & Care.](http://localhost:3000/services/Diagnostiek)
+Bent u gepassioneerd over het helpen van jongvolwassenen  en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. [Leer meer over werken bij Enjoy Health & Care.](http://localhost:3000/services/Diagnostiek)
 
 
 # Neem Contact Op
@@ -31,13 +31,13 @@ Klaar om de eerste stap te zetten naar een betere toekomst voor uw jongere? Neem
 
 ![My Image](/images/services/dignostic/1.jpg)
 
-# Autisme begrijpen en ondersteunen bij jongeren
+# Autisme begrijpen en ondersteunen bij jongvolwassenen 
 
-Autisme is een ontwikkelingsstoornis die invloed heeft op hoe jongeren de wereld om zich heen ervaren en ermee omgaan. Ongeveer 1% van de jongeren heeft een vorm van autisme, waaronder Asperger, PDD-NOS en klassiek autisme.
+Autisme is een ontwikkelingsstoornis die invloed heeft op hoe jongvolwassenen  de wereld om zich heen ervaren en ermee omgaan. Ongeveer 1% van de jongvolwassenen  heeft een vorm van autisme, waaronder Asperger, PDD-NOS en klassiek autisme.
 
-De uitdagingen die jongeren met autisme ervaren, variëren sterk, maar veelvoorkomende aspecten zijn moeilijkheden in sociale interactie, communicatie en gedragsflexibiliteit. Dit kan leiden tot gevoelens van isolatie en misverstanden, en tot problemen op school, thuis en in de bredere gemeenschap.
+De uitdagingen die jongvolwassenen  met autisme ervaren, variëren sterk, maar veelvoorkomende aspecten zijn moeilijkheden in sociale interactie, communicatie en gedragsflexibiliteit. Dit kan leiden tot gevoelens van isolatie en misverstanden, en tot problemen op school, thuis en in de bredere gemeenschap.
 
-# Diagnostiek voor autisme bij jongeren
+# Diagnostiek voor autisme bij jongvolwassenen 
 
 Het vaststellen van autisme kan een complex proces zijn, gezien de variatie in symptomen en gedragingen die geassocieerd worden met de stoornis. Bij Enjoy Health & Care, zetten we een veelzijdige aanpak in om een gedetailleerd en nauwkeurig beeld te krijgen van de unieke ervaringen en uitdagingen van elke jongere.
 
@@ -51,13 +51,13 @@ Een nauwkeurige diagnose van autisme is cruciaal voor het ontwikkelen van een op
 
 # Hoe Enjoy Health & Care ondersteuning biedt
 
-Enjoy Health & Care, gevestigd in Beneden-Leeuwen, biedt kleinschalige, persoonlijke ondersteuning aan jongeren met autisme. Ons doel is om deze jongeren te helpen hun zelfstandigheid te ontwikkelen, zodat ze zo veel mogelijk in hun eigen thuisomgeving kunnen blijven wonen.
+Enjoy Health & Care, gevestigd in Beneden-Leeuwen, biedt kleinschalige, persoonlijke ondersteuning aan jongvolwassenen  met autisme. Ons doel is om deze jongvolwassenen  te helpen hun zelfstandigheid te ontwikkelen, zodat ze zo veel mogelijk in hun eigen thuisomgeving kunnen blijven wonen.
 
 We begrijpen de unieke behoeften en uitdagingen van elke jongere en ontwikkelen op maat gemaakte zorgplannen om hun sterke punten te benadrukken en te werken aan gebieden die verbetering behoeven.
 
 # Individuele aandacht en zorg
 
-Door een-op-een begeleiding en ondersteuning, helpen we jongeren om hun sociale vaardigheden, communicatie en zelfzorg te verbeteren. We bieden ook ondersteuning aan gezinnen, om de thuisomgeving zo ondersteunend mogelijk te maken.
+Door een-op-een begeleiding en ondersteuning, helpen we jongvolwassenen  om hun sociale vaardigheden, communicatie en zelfzorg te verbeteren. We bieden ook ondersteuning aan gezinnen, om de thuisomgeving zo ondersteunend mogelijk te maken.
 
 Als je een jongere met autisme hebt en je loopt vast, aarzel dan niet om contact op te nemen met Enjoy Health & Care. We zijn hier om te helpen en samen te werken voor een betere toekomst voor jou en je kind.
 
