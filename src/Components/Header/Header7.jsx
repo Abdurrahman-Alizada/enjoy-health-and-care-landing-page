@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 const Header7 = ({ data }) => {
-  const { logo } = data;
 
   const [mobileToggle, setMobileToggle] = useState(false);
   const [lastScrollTop, setLastScrollTop] = useState(0);
