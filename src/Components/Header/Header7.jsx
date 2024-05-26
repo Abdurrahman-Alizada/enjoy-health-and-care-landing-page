@@ -45,7 +45,7 @@ const Header7 = ({ data }) => {
         <div className="container">
           <div className="st-top-header-in">
             <Link className="st-site-branding" to="/">
-              <img src={logo} alt={logo} />
+              <img src="/images/logo1.svg" alt={"logo"} />
             </Link>
             <ul className="st-top-header-list">
               <li>
@@ -166,7 +166,7 @@ const Header7 = ({ data }) => {
                 >
                   {/* <span></span> */}
                   <Link className="st-site-branding1" to="/">
-                    <img src={logo} alt={logo} />
+                    <img src="/images/logo1.svg" alt={"logo"} />
                   </Link>
                 </div>
               </div>
