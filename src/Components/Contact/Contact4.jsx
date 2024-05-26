@@ -6,7 +6,7 @@ const Contact4 = () => {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
-    phone: '',
+    Fone: '',
     subject: '',
     msg: ''
   });
@@ -42,7 +42,7 @@ const Contact4 = () => {
       setFormData({
         name: '',
         email: '',
-        phone: '',
+        Fone: '',
         subject: '',
         msg: ''
       });
@@ -119,15 +119,15 @@ const Contact4 = () => {
               {/* .col */}
               <div className="col-lg-6">
                 <div className="st-form-field st-style1">
-                  <label>Phone</label>
+                  <label>Fone</label>
                   <input
                     type="text"
-                    id="phone"
-                    name="phone"
+                    id="Fone"
+                    name="Fone"
                     placeholder="+00 376 12 465"
                     required
                     onChange={handleInputChange}
-                    value={formData.phone}
+                    value={formData.Fone}
                   />
                 </div>
               </div>

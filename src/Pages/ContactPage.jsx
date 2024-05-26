@@ -74,7 +74,7 @@ const ContactPage = () => {
                     Email
                   </div>
                   <p style={{ marginTop: "5px" }}>
-                    info@enjoyhealthandcare.com
+                  Enjoyhc@mail.com
                   </p>
                 </div>
                 <div className="st-height-b30 st-height-lg-b30" />
@@ -150,7 +150,7 @@ const ContactPage = () => {
                 <br />
                 Geef uw klacht door met het klachtenformulier op de website van
                 Klachtenportaal Zorg. U kunt ook een e-mail sturen
-                aaninfo@klachtenportaalzorg.nl. Weet u niet welke
+                aan info@klachtenportaalzorg.nl. Weet u niet welke
                 klachtenprocedure voor u geldt? Ook daar kan Klachtenportaal
                 Zorg u mee helpen.
                 <br />

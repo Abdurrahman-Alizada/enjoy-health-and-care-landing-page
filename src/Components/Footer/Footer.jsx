@@ -1,26 +1,21 @@
-import React, { useEffect, useState } from 'react';
-import Social from '../Social/Social';
-import { Icon } from '@iconify/react';
-import { Link } from 'react-router-dom';
-
-
-
+import React, { useEffect, useState } from "react";
+import Social from "../Social/Social";
+import { Icon } from "@iconify/react";
+import { Link } from "react-router-dom";
 
 const Footer = ({ data, varient }) => {
   const { logo, subTitle, bgImg, links } = data;
   const currentYear = new Date().getFullYear();
 
   useEffect(() => {
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
 
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
   }, []);
 
-
   const [scrollPosition, setScrollPosition] = useState(0);
-
 
   const handleScroll = () => {
     const currentPosition = window.scrollY;
@@ -30,13 +25,17 @@ const Footer = ({ data, varient }) => {
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
-      behavior: 'smooth',
+      behavior: "smooth",
     });
   };
 
   return (
-    <footer className={`st-site-footer st-sticky-footer st-dynamic-bg ${varient ? varient : ""}`}
-      style={{ backgroundImage: `url(${bgImg})` }}>
+    <footer
+      className={`st-site-footer st-sticky-footer st-dynamic-bg ${
+        varient ? varient : ""
+      }`}
+      style={{ backgroundImage: `url(${bgImg})` }}
+    >
       <div className="st-main-footer">
         <div className="container">
           <div className="row">
@@ -79,7 +78,8 @@ const Footer = ({ data, varient }) => {
                       <Icon icon="fa:angle-right" />
                       Contact
                     </Link>
-                  </li>                  {/* <li>
+                  </li>{" "}
+                  {/* <li>
                     <Link to="">
                       <Icon icon="fa:angle-right" />
                       Terms &amp; Conditions
@@ -126,17 +126,16 @@ const Footer = ({ data, varient }) => {
                 <h2 className="st-footer-widget-title">Contacts</h2>
                 <ul className="st-footer-contact-list st-mp0">
                   <li>
-                    <span className="st-footer-contact-title">Address:</span> 
-                    Abbestederweg 84, Callantsoog,  1759 NB Noord-Holland, Netherlands
+                    <span className="st-footer-contact-title">Address:</span>
+                    Acaciastraat 5 1505TG Zaandam
                   </li>
                   <li>
                     <span className="st-footer-contact-title">Email:</span>{" "}
-                    info@enjoyhealthandcare.Com
+                    Enjoyhc@mail.com
                   </li>
                   <li>
-                    <span className="st-footer-contact-title">Phone:</span> (+31) -
-                    234 567 890 <br />
-                    (+31) - 345 678 901
+                    <span className="st-footer-contact-title">Fone:</span>{" "}
+                    0681672853
                   </li>
                 </ul>
               </div>
@@ -154,7 +153,11 @@ const Footer = ({ data, varient }) => {
               </div>
             </div>
             <div className="st-right-copyright">
-              <div id="st-backtotop" style={{ scale: `${scrollPosition >= 100 ? "1" : "0"}` }} onClick={scrollToTop}>
+              <div
+                id="st-backtotop"
+                style={{ scale: `${scrollPosition >= 100 ? "1" : "0"}` }}
+                onClick={scrollToTop}
+              >
                 <Icon icon="fa6-solid:angle-up" />
               </div>
             </div>
@@ -162,7 +165,7 @@ const Footer = ({ data, varient }) => {
         </div>
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

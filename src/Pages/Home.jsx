@@ -100,7 +100,7 @@ const iconboxData = [
 //       endTime: "3:00",
 //     },
 //   ],
-//   contact: "(+31) - 234 567 890",
+//   contact: "0681672853",
 // };
 
 // const specialistData = [

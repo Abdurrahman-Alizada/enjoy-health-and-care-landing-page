@@ -36,11 +36,11 @@ const doctorData = {
     },
     {
       title: `Email`,
-      desc: `info@enjoyhealthandcare.com`
+      desc: `Enjoyhc@mail.com`
     },
     {
-      title: `Phone`,
-      desc: `(+31) - 234 567 890`
+      title: `Fone`,
+      desc: `0681672853`
     },
   ],
   shedule: [

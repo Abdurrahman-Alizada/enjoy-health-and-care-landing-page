@@ -7,7 +7,7 @@ const Appointment = () => {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
-    phone: "",
+    Fone: "",
     date: "",
     department: "",
     doctor: "",
@@ -45,7 +45,7 @@ const Appointment = () => {
       setFormData({
         name: "",
         email: "",
-        phone: "",
+        Fone: "",
         date: "",
         department: "",
         doctor: "",
@@ -115,14 +115,14 @@ const Appointment = () => {
                 </div>
                 <div className="col-lg-6">
                   <div className="st-form-field st-style1">
-                    <label>Phone Number</label>
+                    <label>Fone Number</label>
                     <input
                       type="text"
-                      id="phone"
-                      name="phone"
+                      id="Fone"
+                      name="Fone"
                       placeholder="+00 141 23 234"
                       onChange={handleInputChange}
-                      value={formData.phone}
+                      value={formData.Fone}
                       required
                     />
                   </div>
