@@ -39,19 +39,18 @@ const Footer = ({ data, varient }) => {
       <div className="st-main-footer">
         <div className="container">
           <div className="row">
-            <div className="col-lg-3">
+            <div className="col-lg-4">
               <div className="st-footer-widget">
                 <div className="st-text-field">
                   <img src={logo} alt={logo} className="st-footer-logo" />
                   <div className="st-height-b25 st-height-lg-b25" />
-                  <div className="st-footer-text">{subTitle}</div>
+                  <div className="st-footer-text mr-5">{subTitle}</div>
                   <div className="st-height-b25 st-height-lg-b25" />
                   <Social data={links} />
                 </div>
               </div>
             </div>
-            {/* .col */}
-            <div className="col-lg-3">
+            <div className="col-lg-3 mx-5">
               <div className="st-footer-widget">
                 <h2 className="st-footer-widget-title">Useful Links</h2>
                 <ul className="st-footer-widget-nav st-mp0">
@@ -64,13 +63,13 @@ const Footer = ({ data, varient }) => {
                   <li>
                     <Link to="/about">
                       <Icon icon="fa:angle-right" />
-                      About us
+                      Over ons
                     </Link>
                   </li>
                   <li>
                     <Link to="/post">
                       <Icon icon="fa:angle-right" />
-                      News
+                      Werken bij
                     </Link>
                   </li>
                   <li>
@@ -88,39 +87,6 @@ const Footer = ({ data, varient }) => {
                 </ul>
               </div>
             </div>
-            {/* .col */}
-            <div className="col-lg-3">
-              <div className="st-footer-widget">
-                <h2 className="st-footer-widget-title">Top services</h2>
-                <ul className="st-footer-widget-nav st-mp0">
-                  <li>
-                    <Link to="">
-                      <Icon icon="fa:angle-right" />
-                      Develop House
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="">
-                      <Icon icon="fa:angle-right" />
-                      Independence training
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="">
-                      <Icon icon="fa:angle-right" />
-                      Independent house
-                    </Link>
-                  </li>
-                  <li>
-                    <Link to="">
-                      <Icon icon="fa:angle-right" />
-                      Independence HousePlus
-                    </Link>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            {/* .col */}
             <div className="col-lg-3">
               <div className="st-footer-widget">
                 <h2 className="st-footer-widget-title">Contacts</h2>
@@ -140,7 +106,6 @@ const Footer = ({ data, varient }) => {
                 </ul>
               </div>
             </div>
-            {/* .col */}
           </div>
         </div>
       </div>

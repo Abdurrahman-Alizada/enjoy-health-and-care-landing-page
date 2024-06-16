@@ -12,7 +12,7 @@ const footerData = {
   logo: '/images/logo1.png',
   bgImg: '/images/footer-bg.png',
   subTitle:
-    ' Lorem ipsum dolor sit consectet adipisicing sed do eiusmod temp incididunt ut labore. Lorem Ipsum is simply dummy.',
+    'Enjoy Health & Care is de entree tot een nieuwe fase waarin jongvolwassenen kunnen werken aan hun toekomst. De kerngedachte is dat jongvolwassenen Enjoy Health & Care in een verbeterde situatie verlaten na een maatgevoerd ontwikkeltraject.',
 };
 const Layout7 = () => {
   const [isLoading, setIsLoading] = useState(true);
