@@ -138,6 +138,11 @@ const Header7 = ({ data }) => {
                       Contact
                     </Link>
                   </li>
+                  <li>
+                    <a href="/Aanmeldformulierinclbijlagegezinnen-15.pdf" onClick={() => setMobileToggle(false)}>
+                    Aanmeldformulier
+                    </a>
+                  </li>
                   {/* <li>
                     <Link to="gallery" onClick={() => setMobileToggle(false)} >Gallery</Link>
                   </li> */}

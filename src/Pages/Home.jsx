@@ -149,46 +149,28 @@ const iconboxData = [
 const testimonialData = [
   {
     img: "/images/avatar2.png",
-    name: "Ralph Jones",
-    designation: "Executive",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
+    name: "Sanne Bakker",
+    // designation: "Executive",
+    subTitle:"Fantastische ervaring! De begeleiding was precies wat ik nodig had om mijn doelen te bereiken. Zeer aan te bevelen!"
   },
   {
     img: "/images/avatar3.png",
-    name: "Francis Jara",
-    designation: "Biographer",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
+    name: "Lisa de Jon",
+    // designation: "Biographer",
+    subTitle:"Een geweldige plek om aan jezelf te werken. De ondersteuning was geweldig en ik voel me nu veel zelfverzekerder. Aanrader!"
   },
   {
     img: "/images/avatar4.png",
-    name: "David Baer",
-    designation: "UX Designer",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
+    name: "Tom Smit",
+    // designation: "UX Designer",
+    subTitle:"Het ontwikkeltraject heeft mijn leven veranderd. Ik ben zelfverzekerder en heb een duidelijker beeld van mijn toekomst. Bedankt!"
   },
   {
-    img: "/images/avatar2.png",
+    img: "/images/avatar1.png",
     name: "Ralph Jones",
-    designation: "Executive",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
-  },
-  {
-    img: "/images/avatar3.png",
-    name: "Francis Jara",
-    designation: "Biographer",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
-  },
-  {
-    img: "/images/avatar4.png",
-    name: "David Baer",
-    designation: "UX Designer",
-    subTitle:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum the industry's standard dummy text.",
-  },
+    // designation: "Executive",
+    subTitle:"Ik heb enorm veel geleerd en ben gegroeid als persoon. Het team is professioneel en zorgzaam. Absolute aanrader!"
+  }
 ];
 
 const Multipage = () => {
