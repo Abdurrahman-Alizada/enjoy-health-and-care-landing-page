@@ -8,7 +8,7 @@ Onze aanpak bij crisisopvang: Een stabiele toekomst voor elke jongere
 Het is ons doel om helderheid te scheppen over de huidige situatie: wat gaat goed en wat kan beter? We betrekken de jongere, ouders of verzorgers, en de verwijzer in dit gesprek. Zodra de jongere gestabiliseerd is, richten we ons op het uitstippelen van een vervolgtraject. Dit kan inhouden dat de jongere terugkeert naar de thuissituatie, of dat verdere behandeling bij Enjoy Health & Care noodzakelijk is. Onze prioriteit is altijd om te onderzoeken hoe we de jongere weer veilig thuis kunnen laten wonen.
 
 # Neem direct contact op
-Bent u of kent u een jongere in crisis? Wacht niet. **Bel ons nu op** [085-4014489]() voor directe hulp.
+Bent u of kent u een jongere in crisis? Wacht niet. *Bel ons nu op* **085-4014489** voor directe hulp.
 
 ![My Image](/images/services/crisis/1.webp)
 

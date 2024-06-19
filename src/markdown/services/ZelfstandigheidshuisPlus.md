@@ -11,17 +11,17 @@ Bij Enjoy Health & Care geloven we in maatwerk. We begrijpen dat elke jongere un
 
 # Onze Aanvullende Diensten
 
-- [Crisisopvang](/services/Diagnostiek)
+- [Crisisopvang](/services/Crisis)
 
 - [Ambulant Wonen](/services/Ambulante%20Behandeling)
 
-- [Leef- en Ontwikkelhuis]()
+- [Leef- en Ontwikkelhuis](/services/Leef-%20en%20Ontwikkelhuis%20(Behandelgroep))
 
-- [Ambulante Behandeling]()
+- [Ambulante Behandeling](/services/Ambulante%20Behandeling)
 
 - [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining))
 
-- [Zelfstandigheidshuis]()
+- [Zelfstandigheidshuis](/services/Zelfstandigheidstraining%20(Kamertraining))
 
 - [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus)
 
@@ -55,4 +55,4 @@ Enjoy Health & Care is niet alleen gevestigd in Beneden-Leeuwen, maar heeft ook 
 # Kwaliteit en Innovatie
 Wij zetten ons in voor continue verbetering en innovatie in al onze diensten. Door de nieuwste inzichten en best practices in de jeugdzorg toe te passen, streven we ernaar om kwalitatieve en effectieve zorg te bieden die jongvolwassenen  helpt hun volledige potentieel te bereiken.
 
-Ontdek de transformatieve impact van het Zelfstandigheidshuis Plus bij Enjoy Health & Care. Neem vandaag nog [contact met ons op]() om te leren hoe wij u kunnen ondersteunen op uw reis naar zelfstandigheid en succes.
+Ontdek de transformatieve impact van het Zelfstandigheidshuis Plus bij Enjoy Health & Care. Neem vandaag nog [contact met ons op](/contact) om te leren hoe wij u kunnen ondersteunen op uw reis naar zelfstandigheid en succes.

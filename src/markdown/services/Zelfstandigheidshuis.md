@@ -20,4 +20,4 @@ Als een gecertificeerde jeugdzorgorganisatie biedt Enjoy Health & Care kwalitati
 # Contact
 Gelegen in Beneden-Leeuwen, is Enjoy Health & Care altijd bereikbaar en actief in de regio. Neem [contact](/contact) met ons op voor meer informatie. Volg ons op [LinkedIn](https://www.linkedin.com/in/aissam-allaoui-6438512a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) of ontdek de carrièremogelijkheden bij Enjoy Health & Care.
 
-![My Image](/images/services/Zelfstandigheidshuis-in-Zaandam.webp)
+![My Image](/images/services/Zelfstandigheidshuis-in-Tiel.webp)

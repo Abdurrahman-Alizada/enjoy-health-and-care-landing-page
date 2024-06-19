@@ -12,17 +12,17 @@ Een stoornis verwijst naar elke aandoening die de normale mentale, emotionele of
 
 Naast diagnostiek biedt Enjoy Health & Care een reeks andere diensten, zoals:
 
-- [Crisisopvang](/services/Diagnostiek)
+- [Crisisopvang](/services/Crisis)
 - [Ambulant Wonen](/services/Ambulante%20Behandeling)
-- [Leef- en Ontwikkelhuis]()
-- [Ambulante Behandeling]()
+- [Leef- en Ontwikkelhuis](/services/Leef-%20en%20Ontwikkelhuis%20(Behandelgroep))
+- Ambulante Behandeling
 - [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining))
-- [Zelfstandigheidshuis]()
+- Zelfstandigheidshuis
 - [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus)
 
 # Werken bij Enjoy Health & Care
 
-Bent u gepassioneerd over het helpen van jongvolwassenen  en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. [Leer meer over werken bij Enjoy Health & Care.](http://localhost:3000/services/Diagnostiek)
+Bent u gepassioneerd over het helpen van jongvolwassenen  en wilt u deel uitmaken van ons toegewijde team? Ontdek de kansen en wordt onderdeel van ons groeiende team. Leer meer over werken bij Enjoy Health & Care.
 
 
 # Neem Contact Op
@@ -61,7 +61,7 @@ Door een-op-een begeleiding en ondersteuning, helpen we jongvolwassenen  om hun 
 
 Als je een jongere met autisme hebt en je loopt vast, aarzel dan niet om contact op te nemen met Enjoy Health & Care. We zijn hier om te helpen en samen te werken voor een betere toekomst voor jou en je kind.
 
-[Neem Contact Op](http://localhost:3000/services/Diagnostiek)
+[Neem Contact Op](/contact)
 
 
 ![My Image](/images/services/dignostic/2.webp)

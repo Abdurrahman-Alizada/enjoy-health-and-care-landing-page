@@ -1,8 +1,7 @@
 # Kamertraining (Zelfstandigheidstraining) bij Enjoy health & care
 
 Bij Enjoy Health & Care bieden we op maat gemaakte kamertrainingen voor jongvolwassenen  die klaar zijn om de overstap te maken
-naar een meer zelfstandige woonomgeving na hun tijd in onze
-[behandelgroep]().
+naar een meer zelfstandige woonomgeving na hun tijd in onze behandelgroep.
 
 # Diagnostiek
 De eerste stap naar zelfstandigheid begint met een grondige [diagnostiek](/services/Diagnostiek).
@@ -46,7 +45,7 @@ Bent u op zoek naar **kamertraining** voor jongvolwassenen  in Culemborg, Gelder
 Kamertraining is een speciaal ontworpen programma dat jongvolwassenen  helpt om de vaardigheden en kennis te ontwikkelen die nodig zijn om zelfstandig te leven. Bij Enjoy Health & Care focussen we op het aanleren van praktische vaardigheden, zoals koken, schoonmaken, budgetteren en het nemen van verantwoordelijkheid voor het eigen leven.
 
 # Zelfstandig wonen bij Enjoy Health & Care in
-Zelfstandig wonen is een cruciale stap in de ontwikkeling van elke jongere. Bij [Enjoy health & care]() in Beneden-Leeuwen begrijpen we de uitdagingen en kansen die deze belangrijke overgang met zich meebrengt. Onze gespecialiseerde begeleiders zetten zich in om jongvolwassenen  de vaardigheden bij te brengen die nodig zijn om zelfverzekerd en bekwaam de wereld van zelfstandig wonen te betreden.
+Zelfstandig wonen is een cruciale stap in de ontwikkeling van elke jongere. Bij [Enjoy health & care](/home) in Beneden-Leeuwen begrijpen we de uitdagingen en kansen die deze belangrijke overgang met zich meebrengt. Onze gespecialiseerde begeleiders zetten zich in om jongvolwassenen  de vaardigheden bij te brengen die nodig zijn om zelfverzekerd en bekwaam de wereld van zelfstandig wonen te betreden.
 
 Onze zelfstandigheidstraining voor jongvolwassenen  is op maat gemaakt, waarbij we individuele begeleiding bieden, toegespitst op de unieke behoeften en uitdagingen van elke jongere. We werken samen aan essentiële vaardigheden zoals koken, schoonmaken, budgetteren en plannen, en bouwen zo aan een stevige fundering voor een succesvolle toekomst.
 
