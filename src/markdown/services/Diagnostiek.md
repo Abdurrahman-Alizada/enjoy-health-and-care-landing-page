@@ -12,13 +12,13 @@ Een stoornis verwijst naar elke aandoening die de normale mentale, emotionele of
 
 Naast diagnostiek biedt Enjoy Health & Care een reeks andere diensten, zoals:
 
-- [Crisisopvang](http://localhost:3000/services/Diagnostiek)
-- [Ambulant Wonen]()
+- [Crisisopvang](/services/Diagnostiek)
+- [Ambulant Wonen](/services/Ambulante%20Behandeling)
 - [Leef- en Ontwikkelhuis]()
 - [Ambulante Behandeling]()
-- [Zelfstandigheidstraining]()
+- [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining))
 - [Zelfstandigheidshuis]()
-- [ZelfstandigheidshuisPlus]()
+- [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus)
 
 # Werken bij Enjoy Health & Care
 

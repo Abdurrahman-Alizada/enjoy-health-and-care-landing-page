@@ -2,10 +2,10 @@
 Als problemen zodanig escaleren dat een jongere (tijdelijk) niet meer thuis kan verblijven, staat Enjoy Health & Care klaar met effectieve crisisopvang.
 
 # Wat definieert een crisis?
-Een crisis ontstaat wanneer de thuissituatie voor zowel jongvolwassenen  als ouders of verzorgers te bedreigend of verstoord wordt. Bij dergelijke urgente situaties kunnen verwijzers zoals jeugdconsulenten of jeugdbeschermers altijd [contact]() opnemen met Enjoy Health & Care, gevestigd in [Beneden-Leeuwen](). Voor crisisplaatsingen zijn wij 24 uur per dag beschikbaar. Bij ons vinden jongvolwassenen  een veilige haven om tot rust te komen.
+Een crisis ontstaat wanneer de thuissituatie voor zowel jongvolwassenen  als ouders of verzorgers te bedreigend of verstoord wordt. Bij dergelijke urgente situaties kunnen verwijzers zoals jeugdconsulenten of jeugdbeschermers altijd [contact](/contact) opnemen met Enjoy Health & Care, gevestigd in Beneden-Leeuwen. Voor crisisplaatsingen zijn wij 24 uur per dag beschikbaar. Bij ons vinden jongvolwassenen  een veilige haven om tot rust te komen.
 
 Onze aanpak bij crisisopvang: Een stabiele toekomst voor elke jongere
-Het is ons doel om helderheid te scheppen over de huidige situatie: wat gaat goed en wat kan beter? We betrekken de jongere, ouders of verzorgers, en de verwijzer in dit gesprek. Zodra de jongere gestabiliseerd is, richten we ons op het uitstippelen van een vervolgtraject. Dit kan inhouden dat de jongere terugkeert naar de thuissituatie, of dat [verdere behandeling]() bij Enjoy Health & Care noodzakelijk is. Onze prioriteit is altijd om te onderzoeken hoe we de jongere weer veilig thuis kunnen laten wonen.
+Het is ons doel om helderheid te scheppen over de huidige situatie: wat gaat goed en wat kan beter? We betrekken de jongere, ouders of verzorgers, en de verwijzer in dit gesprek. Zodra de jongere gestabiliseerd is, richten we ons op het uitstippelen van een vervolgtraject. Dit kan inhouden dat de jongere terugkeert naar de thuissituatie, of dat verdere behandeling bij Enjoy Health & Care noodzakelijk is. Onze prioriteit is altijd om te onderzoeken hoe we de jongere weer veilig thuis kunnen laten wonen.
 
 # Neem direct contact op
 Bent u of kent u een jongere in crisis? Wacht niet. **Bel ons nu op** [085-4014489]() voor directe hulp.
@@ -23,21 +23,21 @@ Onze ervaren professionals zijn getraind om jongvolwassenen  te begeleiden bij h
 # Onze diensten naast 24-uurs zorg en crisisopvang
 Bij Enjoy Health & Care bieden we meer dan alleen 24-uurs zorg. We hebben een scala aan diensten ontworpen om te voldoen aan de diverse behoeften van jongvolwassenen  en hun families:
 
-- [Crisisopvang]() – Een onmiddellijke en veilige opvang voor jongvolwassenen  in noodsituaties, waar ze worden ondersteund door ons toegewijde team.
+- [Crisisopvang](/services/Crisis) – Een onmiddellijke en veilige opvang voor jongvolwassenen  in noodsituaties, waar ze worden ondersteund door ons toegewijde team.
 
-- [Ambulant wonen]() – Ondersteuning voor jongvolwassenen  die thuis wonen, gericht op het verbeteren van hun welzijn en zelfstandigheid.
+- [Ambulant wonen](/services/Ambulante%20Behandeling) – Ondersteuning voor jongvolwassenen  die thuis wonen, gericht op het verbeteren van hun welzijn en zelfstandigheid.
 
-- [Leef- en Ontwikkelhuis]() – Een gestructureerde omgeving waar jongvolwassenen  hun leven weer op de rails kunnen krijgen en hun persoonlijke en sociale vaardigheden kunnen ontwikkelen.
+- [Leef- en Ontwikkelhuis](/services/Leef-%20en%20Ontwikkelhuis%20(Behandelgroep)) – Een gestructureerde omgeving waar jongvolwassenen  hun leven weer op de rails kunnen krijgen en hun persoonlijke en sociale vaardigheden kunnen ontwikkelen.
 
-- [Ambulante Behandeling]() – Gespecialiseerde therapeutische diensten die worden aangeboden op onze locatie of bij de jongere thuis.
+- [Ambulante Behandeling](/services/Ambulante%20Behandeling) – Gespecialiseerde therapeutische diensten die worden aangeboden op onze locatie of bij de jongere thuis.
 
-- [Zelfstandigheidstraining]() – Programma’s die zijn ontworpen om jongvolwassenen  te helpen bij het ontwikkelen van de vaardigheden die nodig zijn om onafhankelijk te leven.
+- [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining)) – Programma’s die zijn ontworpen om jongvolwassenen  te helpen bij het ontwikkelen van de vaardigheden die nodig zijn om onafhankelijk te leven.
 
-- [Zelfstandigheidshuis]() – Een brug tussen begeleid wonen en volledige zelfstandigheid, waar jongvolwassenen  hun zelfstandigheid verder kunnen ontwikkelen.
+- [Zelfstandigheidshuis](/services/Zelfstandigheidshuis) – Een brug tussen begeleid wonen en volledige zelfstandigheid, waar jongvolwassenen  hun zelfstandigheid verder kunnen ontwikkelen.
 
-- [ZelfstandigheidshuisPlus]() – Een stap verder in de reis naar zelfstandigheid, met extra ondersteuning en middelen voor jongvolwassenen.
+- [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus) – Een stap verder in de reis naar zelfstandigheid, met extra ondersteuning en middelen voor jongvolwassenen.
 
-- [Diagnostiek]() – Uitgebreide evaluaties en assessments om de specifieke behoeften en uitdagingen van elke jongere te identificeren.
+- [Diagnostiek](/services/Diagnostiek) – Uitgebreide evaluaties en assessments om de specifieke behoeften en uitdagingen van elke jongere te identificeren.
 
 
 # Word deel van ons team
@@ -50,30 +50,30 @@ Enjoy Health & Care is er om te helpen bij de uitdagingen waarmee jongvolwassene
 # Crisisopvang jongvolwassenen  in omliggende regio’s van Beneden-Leeuwen
 We bieden hulp in verschillende regio’s. Hieronder een overzicht van plaatsen waar we actief zijn:
 
-- [Culemborg]()
+- Culemborg
 
-- [Geldermalsen]()
+- Geldermalsen
 
-- [Zaltbommel]()
+- Zaltbommel
 
-- [Buren]()
+- Buren
 
-- [Lienden]()
+- Lienden
 
-- [Druten]()
+- Druten
 
-- [Beuningen]()
+- Beuningen
 
-- [Wageningen]()
+- Wageningen
 
-- [Rhenen]()
+- Rhenen
 
-- [Maasdriel]()
+- Maasdriel
 
-- [Zaandam]()
+- Zaandam
 
-- [Gorinchem]()
+- Gorinchem
 
-- [Leerdam]()
+- Leerdam
 
-- [Wijk bij Duurstede]()
+- Wijk bij Duurstede

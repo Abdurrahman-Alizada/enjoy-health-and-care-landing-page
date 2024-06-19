@@ -20,6 +20,7 @@ import DoctorProfilePage from './Pages/DoctorProfilePage';
 import Appointment from './Pages/Appointment';
 import Method from './Pages/Method.jsx';
 import WorkAt from './Pages/WorkAt.jsx';
+import PrivacyPage from './Pages/Privacy.jsx';
 
 const App = () => {
   const { pathname } = useLocation();
@@ -38,6 +39,7 @@ const App = () => {
         <Route path='services/:serviceId' element={<SerivceDetails />} />
         <Route path='appointment' element={<Appointment />} />
         <Route path='about' element={<AboutPage />} />
+        <Route path='privacy' element={<PrivacyPage />} />
         <Route path='gallery' element={<GalleryPage />} />
         <Route path='pricing' element={<PricingPage />} />
         <Route path="contact" element={<ContactPage />} />

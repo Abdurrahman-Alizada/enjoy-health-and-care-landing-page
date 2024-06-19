@@ -67,9 +67,9 @@ const Footer = ({ data, varient }) => {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/post">
+                    <Link to="/privacy">
                       <Icon icon="fa:angle-right" />
-                      Werken bij
+                      Privacy
                     </Link>
                   </li>
                   <li>

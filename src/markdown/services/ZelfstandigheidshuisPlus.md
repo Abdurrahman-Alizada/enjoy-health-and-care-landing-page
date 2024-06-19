@@ -11,17 +11,20 @@ Bij Enjoy Health & Care geloven we in maatwerk. We begrijpen dat elke jongere un
 
 # Onze Aanvullende Diensten
 
-- [Crisisopvang]()
+- [Crisisopvang](/services/Diagnostiek)
+
+- [Ambulant Wonen](/services/Ambulante%20Behandeling)
 
 - [Leef- en Ontwikkelhuis]()
 
-- [Ambulante Hulpverlening]()
+- [Ambulante Behandeling]()
 
-- [Zelfstandigheidstraining]()
+- [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining))
 
-- [Zelfstandigheidshuis Plus]()
+- [Zelfstandigheidshuis]()
 
-- [Diagnostiek]()
+- [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus)
+
 
 # Werken bij Enjoy Health & Care
 

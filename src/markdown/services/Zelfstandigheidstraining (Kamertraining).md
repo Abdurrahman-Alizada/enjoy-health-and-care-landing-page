@@ -5,15 +5,15 @@ naar een meer zelfstandige woonomgeving na hun tijd in onze
 [behandelgroep]().
 
 # Diagnostiek
-De eerste stap naar zelfstandigheid begint met een grondige [diagnostiek]().
+De eerste stap naar zelfstandigheid begint met een grondige [diagnostiek](/services/Diagnostiek).
 Dit proces helpt te identificeren of de jongere een stoornis heeft en welke ondersteuning noodzakelijk is
 om de overgang naar zelfstandigheid zo soepel mogelijk te maken. Het is een cruciale fase die de fundering
 legt voor een succesvolle toekomst.
 
 # Zelfstandigheidshuizen
 Afhankelijk van de unieke behoeften van elke jongere, kunnen zij worden geplaatst in het
-[Zelfstandigheidshuis]() in Zaandam
-of in het [ZelfstandigheidshuisPlus]()
+[Zelfstandigheidshuis](/services/Zelfstandigheidshuis) in Zaandam
+of in het [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus)
 voor intensievere zorg. Deze huizen zijn ontworpen om een veilige, ondersteunende omgeving te bieden
 waar jongvolwassenen  de nodige vaardigheden en kennis kunnen opdoen om volledig zelfstandig te worden.
 
@@ -31,11 +31,11 @@ hun plek in de samenleving in te nemen.
 
 # Contacteer ons
 Gevestigd in Beneden-Leeuwen en actief in de regio, zijn we altijd bereikbaar om de ondersteuning te bieden
-die je nodig hebt. Neem [contact]() met ons op of volg ons op
-[LinkedIn]().
+die je nodig hebt. Neem [contact](/contact) met ons op of volg ons op
+[LinkedIn](https://www.linkedin.com/in/aissam-allaoui-6438512a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
 
 Geïnteresseerd in het werken bij Enjoy Health & Care? Ontdek de mogelijkheden op onze
-[werken bij pagina]().
+werken bij pagina.
 
 ![My Image](/images/services/Kamertraining/1.webp)
 

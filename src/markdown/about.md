@@ -1,5 +1,5 @@
 ### Wij zijn Enjoy health & care
-Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Naast behandelplekken biedt Enjoy health & care ook [Zelfstandigheidstraining](), [Diagnostiek](), [Crisisopvang]() en [Ambulante behandeling](). Enjoy health & care is de entree tot een nieuwe fase waarin jongvolwassenen  kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy health & care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psychologen. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak. Wij werken samen met verschillende regio’s, waarbij het uitgangspunt is dat de zorg in de nabijheid van het systeem van de jongere wordt geboden.
+Enjoy health & care is een jeugdhulpaanbieder met diverse kleinschalige woonvormen, waarbij we een verscheidenheid aan zorgbehoefte bedienen. Naast behandelplekken biedt Enjoy health & care ook [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining)), [Diagnostiek](/services/Diagnostiek), [Crisisopvang](/services/Crisis) en [Ambulante behandeling](/services/Ambulante%20Behandeling). Enjoy health & care is de entree tot een nieuwe fase waarin jongvolwassenen  kunnen werken aan hun toekomst. De begeleiding en behandeling is gericht op persoonlijke ontwikkeling en gezamenlijkheid. Het enthousiaste team van Enjoy health & care bestaat uit jeugdzorgwerkers, orthopedagogen en een GZ- Psychologen. We zijn een klein en hecht team, samen onderstrepen wij onze aanpak. Wij werken samen met verschillende regio’s, waarbij het uitgangspunt is dat de zorg in de nabijheid van het systeem van de jongere wordt geboden.
 
 
 ### Onze blik op jeugdhulp
@@ -29,6 +29,6 @@ Specifieke ontwikkeldoelen die vragen om een specialistische interventie worden 
 
 Er zal opbouwend worden gewerkt aan terugkeer naar huis waarbij wordt aangevangen met het verminderen van verblijf bij Enjoy Health & Care gedurende een deel van de week parallel aan een evenredige terugkeer in de thuissituatie. Bij succes zal de gedeeltelijke terugkeer naar huis worden geïntensiveerd totdat volledig uitstroom uit Enjoy Health & Care is gerealiseerd.
 
-[Ons meerjarenbeleid]()
+Ons meerjarenbeleid
 
 ![For whom main image](/images/about/1.jpg)

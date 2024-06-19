@@ -8,22 +8,22 @@ Het traject van 3 tot 6 maanden bij het Leef- en Ontwikkelhuis (behandelgroep) i
 Bij Enjoy Health & Care moedigen we jongvolwassenen  aan om samen te leven en te leren. In een ondersteunende omgeving op de behandelgroep worden ze aangemoedigd om hun passies en talenten te verkennen in onderwijs, werk en ontspanning. Onze dagelijkse leermomenten worden zorgvuldig benut om de groei en ontwikkeling van elk individu te bevorderen.
 
 # Diagnostiek voor zorgvuldige evaluatie
-We bieden diagnostiek om zorgvuldig te evalueren of er sprake is van een stoornis bij jongvolwassenen . Dit proces helpt ons om een diepgaand begrip te krijgen van hun behoeften en uitdagingen, wat de basis vormt voor onze op maat gemaakte ondersteuning en begeleiding. [Lees meer]() over onze diagnostiekmogelijkheden.
+We bieden diagnostiek om zorgvuldig te evalueren of er sprake is van een stoornis bij jongvolwassenen . Dit proces helpt ons om een diepgaand begrip te krijgen van hun behoeften en uitdagingen, wat de basis vormt voor onze op maat gemaakte ondersteuning en begeleiding. Lees meer over onze diagnostiekmogelijkheden.
 
 # Op weg naar zelfstandigheid
-Na de periode in de behandelgroep bieden we kamertraining aan. Dit is een cruciale stap in de ontwikkeling van jongvolwassenen , waarbij we samen met hen kijken naar hun mogelijkheden om door te stromen naar het [Zelfstandigheidshuis in Zaandam](), het [ZelfstandigheidshuisPlus](), of de [Zelfstandigheidstraining](). We geloven dat deze stappen van vitaal belang zijn voor de toekomst van jongvolwassenen , omdat ze leren hoe ze zelfstandig kunnen functioneren in de maatschappij.
+Na de periode in de behandelgroep bieden we kamertraining aan. Dit is een cruciale stap in de ontwikkeling van jongvolwassenen , waarbij we samen met hen kijken naar hun mogelijkheden om door te stromen naar het Zelfstandigheidshuis in Zaandam, het ZelfstandigheidshuisPlus, of de Zelfstandigheidstraining. We geloven dat deze stappen van vitaal belang zijn voor de toekomst van jongvolwassenen , omdat ze leren hoe ze zelfstandig kunnen functioneren in de maatschappij.
 
 # Geen wachttijden voor de behandelgroep
-In een wereld waarin jongvolwassenen  met complexe problemen te maken hebben, begrijpen we dat wachten geen optie is. Enjoy Health & Care hanteert geen wachttijden, zodat jongvolwassenen  snel de hulp kunnen krijgen die ze nodig hebben. We zijn er om een helpende hand te bieden in een markt met een enorme vraag maar te weinig aanbod. [Lees meer]() over onze aanpak.
+In een wereld waarin jongvolwassenen  met complexe problemen te maken hebben, begrijpen we dat wachten geen optie is. Enjoy Health & Care hanteert geen wachttijden, zodat jongvolwassenen  snel de hulp kunnen krijgen die ze nodig hebben. We zijn er om een helpende hand te bieden in een markt met een enorme vraag maar te weinig aanbod. Lees meer over onze aanpak.
 
 # Over Enjoy Health & Care
-Enjoy Health & Care is een gecertificeerde jeugdzorgorganisatie met een toewijding aan het welzijn en de ontwikkeling van jongvolwassenen . [Lees meer]() over onze organisatie en onze missie om jongvolwassenen  te ondersteunen bij hun groei en ontwikkeling.
+Enjoy Health & Care is een gecertificeerde jeugdzorgorganisatie met een toewijding aan het welzijn en de ontwikkeling van jongvolwassenen . Lees meer over onze organisatie en onze missie om jongvolwassenen  te ondersteunen bij hun groei en ontwikkeling.
 
 # Contacteer ons
-Enjoy Health & Care is gevestigd in Beneden-Leeuwen en altijd bereikbaar voor jongvolwassenen  en hun families in de regio. We zijn slechts een klik verwijderd, dus [neem vandaag nog contact met ons op](). Voor meer updates en inzichten kunt u ook onze [LinkedIn-pagina]() bezoeken.
+Enjoy Health & Care is gevestigd in Beneden-Leeuwen en altijd bereikbaar voor jongvolwassenen  en hun families in de regio. We zijn slechts een klik verwijderd, dus neem vandaag nog contact met ons op. Voor meer updates en inzichten kunt u ook onze LinkedIn-pagina bezoeken.
 
 # Werken bij Enjoy Health & Care op de behandelgroep?
-Als u geïnteresseerd bent in het werken bij Enjoy Health & Care en deel wilt uitmaken van ons toegewijde team, bekijk dan onze [vacatures]() en ontdek hoe u kunt bijdragen aan het welzijn van jongvolwassenen .
+Als u geïnteresseerd bent in het werken bij Enjoy Health & Care en deel wilt uitmaken van ons toegewijde team, bekijk dan onze vacatures en ontdek hoe u kunt bijdragen aan het welzijn van jongvolwassenen .
 
 
 ![My Image](/images/services/Leef-enOntwikkelhuis/1.webp)

@@ -2,7 +2,7 @@
 
 **Enjoy Health & Care**, located in Beneden-Leeuwen, specializes in
 diagnostics for young people in the Zaandam, Geldermalsen,
-Zaltbommel, [Beneden-Leeuwen](https://www.example.com), Buren region. We provide
+Zaltbommel, Beneden-Leeuwen, Buren region. We provide
 personalized diagnostic services to understand and address the
 unique needs of each young person.
 
