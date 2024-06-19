@@ -164,7 +164,7 @@ const ContactPage = () => {
       </div>
 
       <Contact4 />
-      <LocationInMap data={mapLocationURL} />
+      {/* <LocationInMap data={mapLocationURL} /> */}
     </div>
   );
 };
