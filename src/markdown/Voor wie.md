@@ -1,7 +1,7 @@
 
 ![For whom main image](/images/forWhom/main-image.jpg)
 
-# Jongvolwassenen  vanaf 12 jaar tot 23 jaar*
+# Jongvolwassenen  vanaf 18 jaar tot 23 jaar*
 
 - Die [vastlopen]() binnen hun cognitieve, sociaal-emotionele en/of [persoonlijkheidsontwikkeling]() of knelpunten kennen op het gebied van trauma’s, zelfbeeld en systemische factoren.
 

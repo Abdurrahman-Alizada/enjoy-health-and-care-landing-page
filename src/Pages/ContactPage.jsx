@@ -51,9 +51,9 @@ const ContactPage = () => {
                     </svg>
                     LinkedIn
                   </div>
-                  <p style={{ marginTop: "5px" }}>
-                    linkedin.com/in/abdur-rahman17
-                  </p>
+                  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/aissam-allaoui-6438512a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" style={{ marginTop: "5px" }}>
+                  https://www.linkedin.com/in/aissam-allaoui-6438512a8
+                  </a>
                 </div>
                 <div className="st-height-b30 st-height-lg-b30" />
               </div>
