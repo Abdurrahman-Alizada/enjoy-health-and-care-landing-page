@@ -5,7 +5,7 @@ import SidebarContact from "../Components/Contact/sidebarContact";
 const WaitingTime = () => {
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
-    title: "Geen Wachttijden voor Jeugdzorg bij Enjoy health & care",
+    title: "Geen Wachttijden voor Jeugdzorg bij <br /> Enjoy health & care",
     subTitle: `Home / wachttijden`,
   };
 

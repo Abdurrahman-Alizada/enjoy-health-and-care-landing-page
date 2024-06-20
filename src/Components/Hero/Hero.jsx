@@ -90,7 +90,7 @@ const Hero3 = ({ data }) => {
             <div className="st-height-b40 st-height-lg-b20" />
               <p className="col-lg-12">
                 Enjoy health & care is de entree tot een nieuwe fase waarin jongvolwassenen  kunnen
-                werken aan hun toekomst.<br /> De kerngedachte is dat jongvolwassenen  Enjoy Health & Care
+                werken aan hun toekomst.<br /> De kerngedachte is dat jongvolwassenen Enjoy Health & Care
                 in een verbeterde situatie verlaten na een maatgevoerd
                 ontwikkeltraject.<br /> De kenmerken van het getal 8 staan symbool
                 voor de eigenschappen van het ontwikkeltraject.
