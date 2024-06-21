@@ -19,7 +19,7 @@ const AboutPage = () => {
 
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
-    title: "Over Enjoy Health & Care",
+    title: "Over <br /> Enjoy Health & Care",
     subTitle: `Home / Over Enjoy Health & Care`,
   };
   return (

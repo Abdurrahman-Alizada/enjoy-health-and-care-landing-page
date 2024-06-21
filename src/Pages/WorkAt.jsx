@@ -24,7 +24,7 @@ const WorkAt = () => {
 
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
-    title: "Werken bij Enjoy health & Care",
+    title: "Werken bij <br /> Enjoy health & Care",
     subTitle: `Home / Werken bij Enjoy health & Care`,
   };
 

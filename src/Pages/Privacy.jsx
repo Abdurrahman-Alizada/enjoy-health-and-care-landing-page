@@ -19,7 +19,7 @@ const PrivacyPage = () => {
 
   const heroData = {
     bgImg: `/images/hero-bg21.png`,
-    title: "Privacybeleid van Enjoy Health & Care",
+    title: "Privacybeleid van <br /> Enjoy Health & Care",
     subTitle: `Home / Privacybeleid van Enjoy Health & Care`,
   };
   return (

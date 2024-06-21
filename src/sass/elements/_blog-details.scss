@@ -33,7 +33,7 @@
 
 .st-page-heading-title {
   color: #fff;
-  font-size: 42px;
+  font-size: 40px;
   text-align: center;
   margin-bottom: 7px;
 }
@@ -414,7 +414,7 @@
     color: rgba(255, 255, 255, 0.75);
     display: flex;
     justify-content: center;
-    margin-top: 6px;
+    margin-top: 4px;
   }
 
   .st-post-label > span:not(:last-child):before {
@@ -439,7 +439,7 @@
 
 @media screen and (max-width: 991px) {
   .st-page-heading-title {
-    font-size: 32px;
+    font-size: 25px;
   }
 
   .st-page-heading-subtitle {
@@ -447,12 +447,12 @@
   }
 
   .st-page-heading.st-size-md {
-    height: 350px;
+    height: 300px;
     padding-top: 80px;
   }
 
   .st-page-heading-title br {
-    display: none;
+    // display: none;
   }
 
   .st-page-heading {
