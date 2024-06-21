@@ -43,14 +43,14 @@ const Footer = ({ data, varient }) => {
               <div className="st-footer-widget">
                 <div className="st-text-field">
                   <img src={logo} alt={logo} className="st-footer-logo" />
-                  <div className="st-height-b25 st-height-lg-b25" />
+                  <div className="st-height-b25 st-height-lg-b20" />
                   <div className="st-footer-text mr-5">{subTitle}</div>
                   <div className="st-height-b25 st-height-lg-b25" />
                   <Social data={links} />
                 </div>
               </div>
             </div>
-            <div className="col-lg-3 mx-5">
+            <div className="col-lg-3 mt-3">
               <div className="st-footer-widget">
                 <h2 className="st-footer-widget-title">Useful Links</h2>
                 <ul className="st-footer-widget-nav st-mp0">
@@ -87,7 +87,7 @@ const Footer = ({ data, varient }) => {
                 </ul>
               </div>
             </div>
-            <div className="col-lg-3">
+            <div className="col-lg-3 mt-3 ">
               <div className="st-footer-widget">
                 <h2 className="st-footer-widget-title">Contacts</h2>
                 <ul className="st-footer-contact-list st-mp0">
@@ -97,7 +97,7 @@ const Footer = ({ data, varient }) => {
                   </li>
                   <li>
                     <span className="st-footer-contact-title">Email:</span>{" "}
-                    Enjoyhc@mail.com
+                    info@enjoyhc.nl
                   </li>
                   <li>
                     <span className="st-footer-contact-title">Fone:</span>{" "}

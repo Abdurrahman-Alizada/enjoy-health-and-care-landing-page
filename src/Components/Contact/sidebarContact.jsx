@@ -61,7 +61,7 @@ export default function SidebarContact() {
       id="contact-form"
     >
       <input type="hidden" name="from_name" value="Enjoy Health & Care" />
-      <input type="hidden" name="replyto" value="custom@gmail.com" />
+      <input type="hidden" name="replyto" value="info@enjoyhc.nl" />
       <div className="col-lg-6">
         <div className="st-form-field st-style1">
           <label>Full Name</label>

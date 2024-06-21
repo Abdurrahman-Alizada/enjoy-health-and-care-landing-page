@@ -5,11 +5,11 @@ import Footer from '../Footer/Footer';
 import Header7 from '../Header/Header7';
 
 const headerData = {
-  logo: '/images/logo1.png',
+  logo: '/images/logo1.svg',
 };
 
 const footerData = {
-  logo: '/images/logo1.png',
+  logo: '/images/logo1.svg',
   bgImg: '/images/footer-bg.png',
   subTitle:
     'Enjoy Health & Care is de entree tot een nieuwe fase waarin jongvolwassenen kunnen werken aan hun toekomst. De kerngedachte is dat jongvolwassenen Enjoy Health & Care in een verbeterde situatie verlaten na een maatgevoerd ontwikkeltraject.',

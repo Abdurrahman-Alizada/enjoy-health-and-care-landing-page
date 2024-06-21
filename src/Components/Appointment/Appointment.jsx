@@ -82,7 +82,7 @@ const Appointment = () => {
                 name="from_name"
                 value="Enjoy Health & Care"
               />
-              <input type="hidden" name="replyto" value="custom@gmail.com" />
+              <input type="hidden" name="replyto" value="info@enjoyhc.nl" />
               <div id="st-alert1" />
               <div className="row">
                 <div className="col-lg-6">

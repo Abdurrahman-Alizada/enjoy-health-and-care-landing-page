@@ -5,9 +5,8 @@ import MultiplePageHeading from "../Components/Hero/MultiplePageHeading";
 
 const heroData = {
   bgImg: `/images/hero-bg5.jpg`,
-  title: `Stay connect with us`,
+  title: `Blijf met ons in contact`,
   subTitle: `Home / Contact`,
-  // subTitle: `Our dedicated team is available 20/7.`
 };
 
 // const mapLocationURL =
@@ -24,11 +23,11 @@ const ContactPage = () => {
           <div className="col-lg-4">
             <div className="st-widget st-sidebar-widget">
               <h5>Telefoon</h5>
-              <p style={{ color: "#EB9F5C" }}>085-4014489</p>
+              <p style={{ color: "#EB9F5C" }}>0681672853</p>
 
               <h5 style={{ marginTop: "30px" }}>Adres</h5>
               <p style={{ color: "#EB9F5C" }}>
-                Van Heemstraweg 50-F <br /> 6658KG Beneden-Leeuwen
+                 Acaciastraat 5 1505TG <br/> Zaandam
               </p>
               <h5 style={{ marginTop: "30px" }}>Vertrouwenspersoon</h5>
               <p style={{ color: "#EB9F5C" }}></p>
@@ -74,7 +73,7 @@ const ContactPage = () => {
                     Email
                   </div>
                   <p style={{ marginTop: "5px" }}>
-                  Enjoyhc@mail.com
+                  info@enjoyhc.nl
                   </p>
                 </div>
                 <div className="st-height-b30 st-height-lg-b30" />
