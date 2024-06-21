@@ -73,7 +73,7 @@ const ContactPage = () => {
                     Email
                   </div>
                   <p style={{ marginTop: "5px" }}>
-                  info@enjoyhc.nl
+                  info@enjoyhealthandcare.nl
                   </p>
                 </div>
                 <div className="st-height-b30 st-height-lg-b30" />

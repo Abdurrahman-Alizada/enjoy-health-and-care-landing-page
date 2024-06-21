@@ -36,7 +36,7 @@ const doctorData = {
     },
     {
       title: `Email`,
-      desc: `info@enjoyhc.nl`
+      desc: `info@enjoyhealthandcare.nl`
     },
     {
       title: `Fone`,

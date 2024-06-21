@@ -25,7 +25,7 @@ U kunt telefonisch of per e-mail contact opnemen met de klachtenfunctionaris of 
 
 ###### Telefoonnummer:         06-81672853
 
-###### e-mailadres:            [info@enjoyhc.nl](mailto:info@enjoyhc.nl)
+###### e-mailadres:            [info@enjoyhealthandcare.nl](mailto:info@enjoyhealthandcare.nl)
 
 U beschrijft uw klacht op een klachtformulier, dat u kunt downloaden vanaf de website. De link hiervoor is: [enjoyhealthandcare.nl](enjoyhealthandcare.nl). Zowel voor de klachtenfunctionaris als de Klachtencommissie is er een apart formulier.
 

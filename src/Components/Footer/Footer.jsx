@@ -97,7 +97,7 @@ const Footer = ({ data, varient }) => {
                   </li>
                   <li>
                     <span className="st-footer-contact-title">Email:</span>{" "}
-                    info@enjoyhc.nl
+                    info@enjoyhealthandcare.nl
                   </li>
                   <li>
                     <span className="st-footer-contact-title">Fone:</span>{" "}
