@@ -52,7 +52,7 @@ const Footer = ({ data, varient }) => {
             </div>
             <div className="col-lg-3 mt-3">
               <div className="st-footer-widget">
-                <h2 className="st-footer-widget-title">Useful Links</h2>
+                <h2 className="st-footer-widget-title">Handige links</h2>
                 <ul className="st-footer-widget-nav st-mp0">
                   <li>
                     <Link to="/">
@@ -92,16 +92,16 @@ const Footer = ({ data, varient }) => {
                 <h2 className="st-footer-widget-title">Contacts</h2>
                 <ul className="st-footer-contact-list st-mp0">
                   <li>
-                    <span className="st-footer-contact-title">Address:</span>
-                    Acaciastraat 5 1505TG Zaandam
-                  </li>
-                  <li>
                     <span className="st-footer-contact-title">Email:</span>{" "}
                     info@enjoyhealthandcare.nl
                   </li>
                   <li>
+                    <span className="st-footer-contact-title">Adres:</span>
+                    Acaciastraat 5 <br /> 1505TG, Zaandam
+                  </li>
+                  <li>
                     <span className="st-footer-contact-title">Fone:</span>{" "}
-                    0681672853
+                    0681672853 (Aissam)
                   </li>
                 </ul>
               </div>
@@ -114,7 +114,7 @@ const Footer = ({ data, varient }) => {
           <div className="st-copyright-in">
             <div className="st-left-copyright">
               <div className="st-copyright-text">
-                Copyright {currentYear}. Enjoy Health & Care
+              Auteursrechten {currentYear}. Enjoy Health & Care
               </div>
             </div>
             <div className="st-right-copyright">

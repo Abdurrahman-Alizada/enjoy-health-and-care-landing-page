@@ -74,7 +74,7 @@ const Contact4 = () => {
               <input type="hidden" name="replyto" value="custom@gmail.com" />
               <div className="col-lg-6">
                 <div className="st-form-field st-style1">
-                  <label>Full Name</label>
+                  <label>Volledige naam</label>
                   <input
                     type="text"
                     id="name"
@@ -89,7 +89,7 @@ const Contact4 = () => {
               {/* .col */}
               <div className="col-lg-6">
                 <div className="st-form-field st-style1">
-                  <label>Email Address</label>
+                  <label>e-mail adres</label>
                   <input
                     type="text"
                     id="email"
@@ -104,12 +104,12 @@ const Contact4 = () => {
               {/* .col */}
               <div className="col-lg-6">
                 <div className="st-form-field st-style1">
-                  <label>Subject</label>
+                  <label>Onderwerp</label>
                   <input
                     type="text"
                     id="subject"
                     name="subject"
-                    placeholder="Write subject"
+                    placeholder="Onderwerp schrijven"
                     required
                     onChange={handleInputChange}
                     value={formData.subject}
@@ -119,7 +119,7 @@ const Contact4 = () => {
               {/* .col */}
               <div className="col-lg-6">
                 <div className="st-form-field st-style1">
-                  <label>Fone</label>
+                  <label>Telefoonnummer</label>
                   <input
                     type="text"
                     id="Fone"
@@ -134,13 +134,13 @@ const Contact4 = () => {
               {/* .col */}
               <div className="col-lg-12">
                 <div className="st-form-field st-style1">
-                  <label>Your Message</label>
+                  <label>Bericht</label>
                   <textarea
                     cols={30}
                     rows={10}
                     id="msg"
                     name="msg"
-                    placeholder="Write something here..."
+                    placeholder="Schrijf hier..."
                     required
                     onChange={handleInputChange}
                     value={formData.msg}
@@ -157,7 +157,7 @@ const Contact4 = () => {
                     id="submit"
                     name="submit"
                   >
-                    {loading ? "Sending..." : "Send Message"}
+                    {loading ? "Bezig met verzenden..." : "Bericht versturen"}
                   </button>
                 </div>
               </div>

@@ -64,7 +64,7 @@ export default function SidebarContact() {
       <input type="hidden" name="replyto" value="info@enjoyhealthandcare.nl" />
       <div className="col-lg-6">
         <div className="st-form-field st-style1">
-          <label>Full Name</label>
+          <label>Volledige naam</label>
           <input
             type="text"
             id="name"
@@ -78,7 +78,7 @@ export default function SidebarContact() {
       </div>
       <div className="col-lg-6">
         <div className="st-form-field st-style1">
-          <label>Email Address</label>
+          <label>e-mail adres</label>
           <input
             type="text"
             id="email"
@@ -92,12 +92,12 @@ export default function SidebarContact() {
       </div>
       <div className="col-lg-6">
         <div className="st-form-field st-style1">
-          <label>Subject</label>
+          <label>Onderwerp</label>
           <input
             type="text"
             id="subject"
             name="subject"
-            placeholder="Write subject"
+            placeholder="Onderwerp"
             required
             onChange={handleInputChange}
             value={formData.subject}
@@ -106,7 +106,7 @@ export default function SidebarContact() {
       </div>
       <div className="col-lg-6">
         <div className="st-form-field st-style1">
-          <label>Fone</label>
+          <label>Telefoonnummer</label>
           <input
             type="text"
             id="Fone"
@@ -120,13 +120,13 @@ export default function SidebarContact() {
       </div>
       <div className="col-lg-12">
         <div className="st-form-field st-style1">
-          <label>Your Message</label>
+          <label>Bericht</label>
           <textarea
             cols={30}
             rows={10}
             id="msg"
             name="msg"
-            placeholder="Write something here..."
+            placeholder="Schrijf hier..."
             required
             onChange={handleInputChange}
             value={formData.msg}
@@ -142,7 +142,7 @@ export default function SidebarContact() {
             id="submit"
             name="submit"
           >
-            {loading ? "Sending..." : "Send Message"}
+            {loading ? "Bezig met verzenden..." : "Bericht versturen"}
           </button>
         </div>
       </div>

@@ -23,21 +23,21 @@ Onze ervaren professionals zijn getraind om jongvolwassenen  te begeleiden bij h
 # Onze diensten naast 24-uurs zorg en crisisopvang
 Bij Enjoy Health & Care bieden we meer dan alleen 24-uurs zorg. We hebben een scala aan diensten ontworpen om te voldoen aan de diverse behoeften van jongvolwassenen  en hun families:
 
-- [Crisisopvang](/services/Crisis) – Een onmiddellijke en veilige opvang voor jongvolwassenen  in noodsituaties, waar ze worden ondersteund door ons toegewijde team.
+- **Crisisopvang** – Een onmiddellijke en veilige opvang voor jongvolwassenen  in noodsituaties, waar ze worden ondersteund door ons toegewijde team.
 
-- [Ambulant wonen](/services/Ambulante%20Behandeling) – Ondersteuning voor jongvolwassenen  die thuis wonen, gericht op het verbeteren van hun welzijn en zelfstandigheid.
+- **Ambulant wonen** – Ondersteuning voor jongvolwassenen  die thuis wonen, gericht op het verbeteren van hun welzijn en zelfstandigheid.
 
-- [Leef- en Ontwikkelhuis](/services/Leef-%20en%20Ontwikkelhuis%20(Behandelgroep)) – Een gestructureerde omgeving waar jongvolwassenen  hun leven weer op de rails kunnen krijgen en hun persoonlijke en sociale vaardigheden kunnen ontwikkelen.
+- **Leef- en Ontwikkelhuis** – Een gestructureerde omgeving waar jongvolwassenen  hun leven weer op de rails kunnen krijgen en hun persoonlijke en sociale vaardigheden kunnen ontwikkelen.
 
-- [Ambulante Behandeling](/services/Ambulante%20Behandeling) – Gespecialiseerde therapeutische diensten die worden aangeboden op onze locatie of bij de jongere thuis.
+- **Ambulante Behandeling** – Gespecialiseerde therapeutische diensten die worden aangeboden op onze locatie of bij de jongere thuis.
 
-- [Zelfstandigheidstraining](/services/Zelfstandigheidstraining%20(Kamertraining)) – Programma’s die zijn ontworpen om jongvolwassenen  te helpen bij het ontwikkelen van de vaardigheden die nodig zijn om onafhankelijk te leven.
+- **Zelfstandigheidstraining** – Programma’s die zijn ontworpen om jongvolwassenen  te helpen bij het ontwikkelen van de vaardigheden die nodig zijn om onafhankelijk te leven.
 
-- [Zelfstandigheidshuis](/services/Zelfstandigheidshuis) – Een brug tussen begeleid wonen en volledige zelfstandigheid, waar jongvolwassenen  hun zelfstandigheid verder kunnen ontwikkelen.
+- **Zelfstandigheidshuis** – Een brug tussen begeleid wonen en volledige zelfstandigheid, waar jongvolwassenen  hun zelfstandigheid verder kunnen ontwikkelen.
 
-- [ZelfstandigheidshuisPlus](/services/ZelfstandigheidshuisPlus) – Een stap verder in de reis naar zelfstandigheid, met extra ondersteuning en middelen voor jongvolwassenen.
+- **ZelfstandigheidshuisPlus** – Een stap verder in de reis naar zelfstandigheid, met extra ondersteuning en middelen voor jongvolwassenen.
 
-- [Diagnostiek](/services/Diagnostiek) – Uitgebreide evaluaties en assessments om de specifieke behoeften en uitdagingen van elke jongere te identificeren.
+- **Diagnostiek** – Uitgebreide evaluaties en assessments om de specifieke behoeften en uitdagingen van elke jongere te identificeren.
 
 
 # Word deel van ons team

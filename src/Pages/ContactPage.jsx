@@ -23,7 +23,7 @@ const ContactPage = () => {
           <div className="col-lg-4">
             <div className="st-widget st-sidebar-widget">
               <h5>Telefoon</h5>
-              <p style={{ color: "#EB9F5C" }}>0681672853</p>
+              <p style={{ color: "#EB9F5C" }}>0681672853 (Aissam)</p>
 
               <h5 style={{ marginTop: "30px" }}>Adres</h5>
               <p style={{ color: "#EB9F5C" }}>

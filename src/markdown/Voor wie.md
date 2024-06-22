@@ -7,7 +7,7 @@
 
 - Die open staan voor leren en begeleiding.
 
-- Bij wie niet duidelijk is wat de oorzaak is van klachten en (gedrags)problemen en waarbij de wens is om dit middels [diagnostiek](/services/Diagnostiek) in kaart te brengen om vervolgens handelingsadviezen te geven.
+- Bij wie niet duidelijk is wat de oorzaak is van klachten en (gedrags)problemen en waarbij de wens is om dit middels **diagnostiek** in kaart te brengen om vervolgens handelingsadviezen te geven.
 
 - Voor wie thuis wonen tijdelijk geen optie meer is.
 Waarvoor het nog niet mogelijk is om zelfstandig te wonen en ook niet meer mogelijk is om thuis te blijven wonen.
